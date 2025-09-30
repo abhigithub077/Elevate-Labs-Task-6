@@ -35,15 +35,7 @@ Exported all results into analysis_results.xlsx.
 Each sheet shows top 15–20 rows for clear insights.
 
 
-![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query2.png)
-
-
-
-![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query3.png)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query4.png)
-
-
-
-![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query5.png)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query6.png)
+![image alt]([https://github.com/abhigithub077/Elevate-Labs-Task-6](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/4d9854c3ad99560a7c846b595284e4b72aec51de/query1.png) ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query2.png) ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query3.png) ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query4.png) ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query5.png) ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query6.png)
 
 
 
