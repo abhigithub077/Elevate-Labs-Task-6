@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,product_id,category,amount,quantity,payment_method,city
+1,09-07-2023,1336,700,Electronics,7692.27,9,Credit Card,Chennai
+2,30-05-2023,3663,218,Electronics,5609.87,8,Net Banking,Hyderabad
+3,04-10-2023,2654,421,Grocery,5981.82,1,Credit Card,Chennai
+4,05-05-2023,1059,957,Books,1121.25,2,Net Banking,Chennai
+5,03-06-2025,2121,896,Electronics,9243.99,1,Credit Card,Chennai
+6,18-07-2023,4191,207,Clothing,7061.35,8,Debit Card,Chennai
+7,24-02-2023,1163,322,Electronics,9316.93,9,Net Banking,Kolkata
+8,30-08-2024,1426,404,Electronics,2503.94,2,UPI,Jaipur
+9,19-01-2025,3450,349,Toys,4164,7,UPI,Hyderabad
+10,22-04-2024,3195,711,Clothing,797.61,7,Net Banking,Pune
+11,06-03-2023,1082,509,Electronics,9998.92,7,Debit Card,Kolkata
+12,06-12-2023,1289,727,Home,9334.93,3,Net Banking,Kolkata
+13,26-10-2024,4241,599,Clothing,5499.09,2,Net Banking,Pune
+14,12-08-2025,1497,180,Clothing,5768.44,9,UPI,Lucknow
+15,09-05-2023,1240,976,Home,9333.64,1,Debit Card,Mumbai
+16,04-05-2025,3336,117,Books,4377.92,5,UPI,Kolkata
+17,21-01-2025,4487,123,Books,7750.81,3,Cash,Ahmedabad
+18,14-03-2024,2153,114,Clothing,6934.12,9,Cash,Mumbai
+19,26-04-2023,3917,655,Grocery,4682.73,5,UPI,Bengaluru
+20,24-08-2023,3484,226,Books,6146.71,5,Net Banking,Hyderabad
+21,17-07-2023,2074,871,Home,602.59,8,UPI,Pune
+22,13-11-2023,2013,634,Grocery,7100.5,7,Debit Card,Mumbai
+23,31-03-2025,4863,687,Books,8150.96,1,Debit Card,Ahmedabad
+24,04-05-2023,3006,221,Books,5656.92,5,UPI,Delhi
+25,18-04-2024,3599,961,Clothing,5299.68,1,Cash,Kolkata
+26,14-11-2023,4553,416,Grocery,7823.63,1,Net Banking,Hyderabad
+27,14-05-2025,4175,441,Toys,3761.11,1,UPI,Lucknow
+28,06-06-2024,3786,850,Books,9990.31,2,Credit Card,Jaipur
+29,13-11-2023,3274,231,Books,5296.51,7,UPI,Jaipur
+30,21-10-2023,3546,636,Toys,3011.71,9,UPI,Kolkata
+31,19-01-2023,3717,712,Books,693.95,3,UPI,Jaipur
+32,26-03-2023,4354,958,Electronics,692.54,6,Credit Card,Lucknow
+33,10-05-2023,3820,878,Clothing,9655.73,1,Credit Card,Lucknow
+34,12-03-2024,4022,570,Books,8548.25,9,Debit Card,Bengaluru
+35,22-06-2025,3646,719,Grocery,4102.79,3,Cash,Ahmedabad
+36,22-08-2025,1124,353,Home,8166.45,1,UPI,Delhi
+37,27-03-2025,2351,183,Home,5315.94,1,Credit Card,Bengaluru
+38,19-07-2024,1785,183,Grocery,3094.72,5,Credit Card,Mumbai
+39,28-09-2025,1389,385,Toys,454.6,4,Debit Card,Hyderabad
+40,19-01-2024,1536,343,Clothing,8041.78,8,Cash,Delhi
+41,22-03-2023,3520,534,Grocery,7036.57,3,Net Banking,Hyderabad
+42,15-05-2025,1517,380,Books,5741.15,1,Credit Card,Chennai
+43,12-01-2025,1185,486,Grocery,6922.74,5,UPI,Bengaluru
+44,12-09-2025,3045,287,Home,8087.3,2,Net Banking,Chennai
+45,22-07-2023,4524,552,Electronics,5937.15,2,Debit Card,Jaipur
+46,10-07-2025,3239,411,Electronics,7975.28,2,Net Banking,Delhi
+47,19-04-2023,2984,436,Beauty,3779.78,8,Net Banking,Hyderabad
+48,30-12-2023,2508,623,Books,6312.35,8,Debit Card,Ahmedabad
+49,23-07-2024,4029,946,Toys,6728.83,3,Cash,Chennai
+50,06-01-2025,3019,978,Toys,1000.42,3,Cash,Chennai
+51,30-06-2024,4313,445,Grocery,4309.49,7,Credit Card,Ahmedabad
+52,07-11-2024,2448,655,Electronics,8734.88,8,UPI,Jaipur
+53,15-12-2023,1307,465,Books,3508.71,5,UPI,Bengaluru
+54,09-02-2025,3682,359,Clothing,4536.94,8,Net Banking,Pune
+55,06-02-2025,1357,271,Toys,6429.6,3,Debit Card,Kolkata
+56,10-07-2025,3387,192,Beauty,7559.22,3,Net Banking,Chennai
+57,16-03-2023,2647,504,Home,1466.61,9,Net Banking,Jaipur
+58,08-05-2024,3855,970,Books,8817.96,9,Cash,Ahmedabad
+59,12-04-2024,2754,754,Clothing,5876.8,5,Debit Card,Jaipur
+60,31-12-2023,1862,305,Books,9911.91,5,Net Banking,Mumbai
+61,17-03-2024,3872,495,Grocery,281.64,6,Credit Card,Lucknow
+62,03-08-2025,3511,749,Toys,3927.54,7,Debit Card,Jaipur
+63,18-09-2024,1759,750,Clothing,6642.88,9,Net Banking,Chennai
+64,01-08-2025,2405,163,Electronics,2967.48,4,UPI,Jaipur
+65,01-09-2024,4174,109,Books,5453.85,1,UPI,Pune
+66,01-10-2025,3930,677,Books,3292.88,2,Net Banking,Bengaluru
+67,26-03-2024,2206,520,Electronics,552.16,4,Debit Card,Hyderabad
+68,09-11-2023,4933,944,Beauty,6460.84,9,Net Banking,Pune
+69,12-04-2024,2270,342,Beauty,6859.94,7,Net Banking,Chennai
+70,20-05-2024,3024,637,Toys,4245.64,5,Net Banking,Chennai
+71,24-02-2024,1569,857,Books,5556.21,3,Debit Card,Bengaluru
+72,18-01-2024,2866,959,Books,3420.51,6,Debit Card,Mumbai
+73,03-02-2025,4661,419,Grocery,682.89,9,Debit Card,Mumbai
+74,15-05-2024,1375,583,Toys,213.66,6,Cash,Mumbai
+75,17-04-2023,2948,858,Grocery,1851.37,5,UPI,Ahmedabad
+76,15-02-2024,4785,345,Clothing,6384.31,8,Net Banking,Pune
+77,24-05-2023,2726,347,Toys,9684.93,1,Net Banking,Ahmedabad
+78,01-11-2023,1368,930,Books,5383.35,7,UPI,Jaipur
+79,13-06-2023,4253,165,Electronics,9840.89,2,UPI,Mumbai
+80,11-06-2024,4602,982,Electronics,2317.76,8,Debit Card,Pune
+81,06-05-2023,1750,163,Grocery,1848.79,9,Net Banking,Lucknow
+82,06-12-2024,4688,625,Home,3411.68,6,UPI,Hyderabad
+83,25-12-2024,4907,631,Books,7653.86,9,UPI,Kolkata
+84,05-01-2024,4367,292,Toys,4988.23,5,Cash,Jaipur
+85,27-06-2024,2412,207,Books,9495.82,9,Debit Card,Jaipur
+86,21-06-2023,1125,981,Toys,4735.57,1,UPI,Bengaluru
+87,03-01-2025,2394,342,Beauty,7666.4,4,Debit Card,Delhi
+88,20-06-2025,2561,603,Beauty,8134.26,9,Net Banking,Jaipur
+89,17-12-2023,4083,101,Electronics,5117.52,7,Credit Card,Jaipur
+90,24-08-2025,3411,375,Toys,4717.68,1,UPI,Chennai
+91,02-12-2024,2951,590,Electronics,3249.79,7,Cash,Pune
+92,11-04-2024,4274,515,Grocery,5338.14,6,UPI,Lucknow
+93,24-11-2024,1477,826,Toys,8250.55,4,Net Banking,Ahmedabad
+94,12-06-2023,4760,698,Home,1009.51,8,Cash,Delhi
+95,25-09-2025,2031,387,Beauty,7988.66,3,Cash,Kolkata
+96,04-10-2024,4275,645,Books,769.19,7,Credit Card,Mumbai
+97,04-09-2023,4467,518,Clothing,2483.15,3,Net Banking,Hyderabad
+98,08-08-2023,3010,547,Grocery,1918.99,3,UPI,Kolkata
+99,01-09-2025,3203,477,Clothing,6891.6,7,UPI,Ahmedabad
+100,29-08-2023,3769,850,Home,5561.2,4,Credit Card,Ahmedabad
+101,05-09-2024,1662,439,Toys,4758.91,6,Cash,Hyderabad
+102,16-01-2024,2406,692,Toys,851.51,9,Net Banking,Delhi
+103,06-03-2024,4934,726,Grocery,5932.66,7,Net Banking,Delhi
+104,02-10-2023,1254,808,Electronics,7293.17,2,UPI,Chennai
+105,10-08-2025,3139,586,Toys,405.01,4,Credit Card,Hyderabad
+106,16-03-2025,2683,740,Electronics,5076.71,3,Credit Card,Lucknow
+107,18-05-2025,1199,474,Toys,6353.24,5,Debit Card,Kolkata
+108,16-10-2023,4659,333,Toys,5208.6,5,Debit Card,Kolkata
+109,05-03-2024,4591,765,Clothing,8227.95,8,Net Banking,Ahmedabad
+110,03-07-2024,4224,516,Clothing,1608.07,1,UPI,Hyderabad
+111,21-02-2023,1576,537,Clothing,2788.57,1,Credit Card,Kolkata
+112,23-02-2023,3708,198,Beauty,2775.97,9,UPI,Lucknow
+113,09-12-2024,4591,531,Grocery,4212,5,UPI,Delhi
+114,27-09-2023,2180,815,Books,6265.08,8,Debit Card,Lucknow
+115,21-01-2023,1828,998,Beauty,5434.44,1,Credit Card,Delhi
+116,13-05-2023,1325,913,Books,6358.51,4,Debit Card,Bengaluru
+117,09-05-2023,1043,914,Clothing,9311.23,8,Net Banking,Chennai
+118,09-10-2024,4265,105,Electronics,8552.54,7,UPI,Chennai
+119,09-03-2024,1431,617,Clothing,7016.89,3,Net Banking,Chennai
+120,12-01-2025,1314,100,Toys,7507.02,8,Net Banking,Delhi
+121,17-04-2025,3645,800,Books,3923.93,2,Debit Card,Chennai
+122,12-08-2024,2149,527,Home,1281.17,8,Cash,Chennai
+123,28-04-2023,3014,532,Clothing,2250.65,3,UPI,Hyderabad
+124,25-06-2024,4623,270,Beauty,5386.59,8,Net Banking,Delhi
+125,06-12-2023,2983,470,Grocery,4325.92,6,Credit Card,Kolkata
+126,19-06-2024,1565,687,Home,6032.48,1,Net Banking,Delhi
+127,08-11-2024,3356,830,Grocery,5353.27,1,Debit Card,Mumbai
+128,10-05-2023,4301,144,Home,4178.26,6,Debit Card,Hyderabad
+129,31-05-2023,1104,397,Toys,7747.82,5,Credit Card,Pune
+130,11-04-2023,2682,273,Beauty,6246.78,5,Cash,Bengaluru
+131,16-05-2025,4273,750,Grocery,3563.9,7,Net Banking,Bengaluru
+132,16-10-2024,3330,897,Beauty,676.73,6,Net Banking,Mumbai
+133,04-01-2025,2644,879,Home,8518.33,6,Net Banking,Delhi
+134,29-08-2025,1334,686,Grocery,404.02,7,Cash,Mumbai
+135,18-01-2023,4068,390,Clothing,476.82,9,Debit Card,Mumbai
+136,26-02-2025,3175,516,Home,1375.76,3,Cash,Kolkata
+137,09-02-2023,1607,647,Clothing,709.83,9,Cash,Ahmedabad
+138,07-08-2023,4642,541,Electronics,3033.36,3,Debit Card,Delhi
+139,03-06-2024,1430,634,Beauty,5084.69,5,Net Banking,Pune
+140,31-08-2025,1740,455,Beauty,4973.77,5,UPI,Mumbai
+141,24-07-2024,3661,555,Clothing,1719.72,3,Debit Card,Jaipur
+142,28-12-2024,3033,588,Home,3007.05,2,Cash,Ahmedabad
+143,16-09-2023,1073,970,Beauty,8366.88,9,Net Banking,Kolkata
+144,31-05-2023,3739,712,Toys,5426.16,6,Net Banking,Kolkata
+145,06-12-2024,1248,874,Grocery,7153.11,4,Cash,Kolkata
+146,20-10-2024,3297,834,Grocery,9194.21,9,Credit Card,Chennai
+147,14-09-2023,4802,547,Home,1666.78,1,Cash,Mumbai
+148,13-06-2023,2787,347,Electronics,5568.68,2,Credit Card,Ahmedabad
+149,01-08-2023,1609,486,Clothing,9083.61,7,Debit Card,Bengaluru
+150,20-08-2025,4198,844,Books,8101.75,2,Debit Card,Ahmedabad
+151,25-01-2024,2096,268,Beauty,8016.93,3,Debit Card,Lucknow
+152,31-05-2024,1052,169,Beauty,9285.21,2,Debit Card,Lucknow
+153,22-08-2025,3906,383,Beauty,2383.49,7,Credit Card,Hyderabad
+154,04-03-2023,1633,867,Home,3187.29,3,Cash,Hyderabad
+155,02-06-2023,2943,758,Home,2828.61,1,Credit Card,Delhi
+156,05-08-2024,1826,103,Home,3647.88,2,UPI,Mumbai
+157,26-08-2024,3755,698,Books,4459.62,1,UPI,Jaipur
+158,25-03-2025,3037,733,Beauty,5040.7,4,Credit Card,Ahmedabad
+159,15-10-2023,3094,102,Clothing,2807.19,7,UPI,Pune
+160,22-05-2024,3023,653,Toys,8910.56,2,Net Banking,Pune
+161,20-10-2023,2094,569,Grocery,3583.26,8,Debit Card,Kolkata
+162,28-08-2024,2868,643,Electronics,960.23,1,UPI,Hyderabad
+163,24-08-2023,4895,560,Electronics,250.89,5,Cash,Kolkata
+164,25-03-2024,3766,391,Beauty,6820.93,5,Net Banking,Kolkata
+165,31-01-2024,2898,639,Clothing,2399.31,7,Cash,Ahmedabad
+166,30-01-2023,2874,204,Clothing,9244.15,6,Net Banking,Jaipur
+167,18-06-2025,4463,789,Home,2003.65,1,UPI,Chennai
+168,27-11-2024,3867,575,Beauty,2160.33,1,Debit Card,Lucknow
+169,29-12-2024,1244,283,Electronics,7970.18,1,Credit Card,Ahmedabad
+170,13-02-2024,1711,667,Toys,4796.3,6,Credit Card,Lucknow
+171,14-01-2025,3464,752,Grocery,1151.07,2,Net Banking,Pune
+172,17-06-2025,2751,903,Beauty,6959.41,1,Net Banking,Bengaluru
+173,03-01-2023,1764,658,Beauty,372.93,7,Net Banking,Hyderabad
+174,10-03-2024,1176,229,Grocery,4501.13,7,UPI,Delhi
+175,25-09-2025,2464,957,Grocery,8204.69,8,Debit Card,Chennai
+176,23-08-2023,4920,507,Home,7775.36,2,Net Banking,Ahmedabad
+177,26-05-2025,1476,763,Electronics,7276.01,2,Net Banking,Kolkata
+178,04-02-2024,1183,294,Grocery,9205.04,4,Debit Card,Kolkata
+179,13-07-2023,4302,445,Toys,9771.75,4,UPI,Mumbai
+180,21-07-2023,4831,166,Clothing,7070.82,7,UPI,Hyderabad
+181,23-07-2023,1541,726,Electronics,1865.08,2,Debit Card,Ahmedabad
+182,20-10-2023,4344,349,Clothing,1835.45,2,Net Banking,Ahmedabad
+183,05-08-2024,2738,380,Electronics,6643.06,3,Net Banking,Hyderabad
+184,10-05-2023,1655,614,Grocery,1636.62,3,Net Banking,Lucknow
+185,08-02-2024,3187,581,Electronics,7699.98,2,Credit Card,Lucknow
+186,13-04-2024,3067,981,Beauty,7150.37,8,UPI,Ahmedabad
+187,25-07-2023,3661,945,Books,1139.3,2,UPI,Pune
+188,03-02-2025,1451,363,Clothing,8776.64,7,Cash,Delhi
+189,12-02-2024,4881,446,Toys,1334.43,2,Cash,Jaipur
+190,06-08-2024,1841,734,Electronics,8762.23,7,UPI,Delhi
+191,16-09-2025,3899,196,Electronics,1902.34,5,Credit Card,Mumbai
+192,26-03-2024,1476,410,Books,8045.08,7,UPI,Jaipur
+193,07-06-2025,2735,463,Grocery,4694.31,2,UPI,Lucknow
+194,31-03-2024,3348,664,Grocery,9790.18,8,Cash,Jaipur
+195,22-12-2024,4111,278,Toys,105.52,9,UPI,Lucknow
+196,02-07-2025,2789,527,Clothing,8551.61,1,Debit Card,Mumbai
+197,08-05-2024,2328,928,Electronics,6271,9,Cash,Bengaluru
+198,16-03-2023,3563,450,Books,6219.33,4,Cash,Hyderabad
+199,20-04-2024,2138,193,Books,1293.27,4,Net Banking,Jaipur
+200,10-06-2023,2820,933,Home,6230.25,8,Credit Card,Pune
+201,11-11-2023,3703,499,Beauty,657.96,6,Cash,Delhi
+202,21-03-2024,1291,394,Clothing,9759.49,9,Net Banking,Mumbai
+203,07-01-2023,3179,218,Clothing,5811.16,6,Net Banking,Lucknow
+204,10-11-2024,1449,378,Toys,9570.25,7,Debit Card,Lucknow
+205,12-12-2023,2885,259,Electronics,7975.9,2,Debit Card,Delhi
+206,20-06-2023,2115,675,Home,3652.54,8,Net Banking,Bengaluru
+207,27-06-2023,3425,467,Books,2064.6,8,Credit Card,Kolkata
+208,18-11-2024,1352,334,Home,975.26,8,Net Banking,Pune
+209,05-06-2024,2955,801,Books,4111.89,6,Debit Card,Kolkata
+210,28-03-2023,2985,622,Grocery,6210.68,4,UPI,Delhi
+211,16-11-2024,4036,670,Clothing,2594.53,4,Cash,Jaipur
+212,30-04-2024,3384,199,Clothing,3938.37,9,Credit Card,Delhi
+213,29-01-2025,3989,266,Toys,4409.97,8,Cash,Kolkata
+214,07-01-2023,2224,265,Toys,9118.03,5,Credit Card,Mumbai
+215,20-04-2025,4826,661,Electronics,1051.2,1,Cash,Chennai
+216,25-09-2023,1613,959,Toys,3831.38,2,Credit Card,Delhi
+217,27-03-2024,4761,380,Toys,873.3,1,Net Banking,Chennai
+218,17-12-2024,4508,116,Electronics,8672.97,8,Cash,Bengaluru
+219,02-06-2024,1669,245,Books,116.37,5,Credit Card,Jaipur
+220,29-03-2025,2843,842,Books,7889.33,1,Credit Card,Mumbai
+221,18-05-2024,1028,488,Home,1639.94,6,Cash,Lucknow
+222,27-08-2025,4493,599,Clothing,4473.1,7,Net Banking,Mumbai
+223,06-03-2025,4471,850,Home,8936.52,2,Debit Card,Mumbai
+224,06-09-2025,1671,673,Clothing,9280.37,6,Cash,Chennai
+225,31-10-2023,1269,849,Beauty,1330.28,2,Net Banking,Hyderabad
+226,12-09-2024,1964,397,Grocery,7499.13,3,Credit Card,Ahmedabad
+227,12-02-2025,1982,782,Beauty,5209.64,4,UPI,Kolkata
+228,07-05-2023,4672,559,Books,1972.31,4,Credit Card,Pune
+229,27-04-2025,4520,303,Books,7415.2,3,Cash,Lucknow
+230,18-07-2024,3692,531,Home,8090.65,6,Credit Card,Pune
+231,20-08-2024,2688,755,Clothing,5576.23,2,Net Banking,Delhi
+232,30-07-2023,3324,498,Electronics,1877.32,1,Net Banking,Hyderabad
+233,03-10-2024,1237,257,Grocery,5758.43,6,Debit Card,Hyderabad
+234,08-05-2024,2266,853,Books,4177.08,8,Cash,Delhi
+235,10-04-2024,1831,291,Grocery,7807.16,8,Debit Card,Lucknow
+236,20-08-2024,4466,633,Books,7694.5,9,Cash,Kolkata
+237,23-08-2023,1237,190,Home,1557.67,7,Cash,Pune
+238,30-11-2023,1385,544,Grocery,2763.95,9,UPI,Hyderabad
+239,09-02-2023,3171,105,Grocery,4699.88,8,Net Banking,Ahmedabad
+240,15-07-2025,4908,198,Grocery,3476.53,4,Net Banking,Delhi
+241,13-02-2025,2223,506,Clothing,9765.21,6,Cash,Bengaluru
+242,02-09-2025,3442,679,Books,7565.95,6,UPI,Jaipur
+243,28-04-2025,3925,918,Electronics,306.08,5,Credit Card,Bengaluru
+244,01-05-2025,2136,890,Electronics,3981.56,6,Cash,Bengaluru
+245,21-05-2024,2991,616,Clothing,6659.55,6,UPI,Delhi
+246,03-09-2024,2573,448,Toys,7359.24,3,Debit Card,Chennai
+247,15-12-2024,2959,484,Toys,2528.16,2,UPI,Jaipur
+248,28-02-2023,3752,760,Clothing,5077.56,1,Credit Card,Kolkata
+249,12-08-2023,1128,597,Grocery,1780.5,1,Net Banking,Mumbai
+250,21-04-2024,2874,981,Grocery,8874.06,8,Credit Card,Hyderabad
+251,27-03-2023,1995,124,Grocery,4589.93,2,Credit Card,Ahmedabad
+252,11-07-2023,4894,891,Grocery,5942.34,3,Cash,Delhi
+253,13-08-2023,4439,954,Electronics,800.17,7,Debit Card,Hyderabad
+254,03-03-2024,3966,704,Beauty,1031.08,7,Cash,Pune
+255,03-10-2023,4789,845,Grocery,4792.78,4,Net Banking,Jaipur
+256,19-06-2023,1918,767,Grocery,9479.31,3,UPI,Bengaluru
+257,29-09-2025,4701,258,Electronics,5559.72,1,Net Banking,Ahmedabad
+258,14-02-2023,2225,793,Books,7725.57,6,Net Banking,Delhi
+259,27-04-2025,2845,168,Books,1975.03,9,Debit Card,Chennai
+260,19-07-2025,1916,679,Electronics,5803.85,3,Debit Card,Hyderabad
+261,11-03-2023,2730,488,Clothing,1843.75,8,Cash,Delhi
+262,21-03-2024,3990,103,Beauty,4579.65,4,Credit Card,Ahmedabad
+263,15-12-2023,1034,462,Home,226.65,1,Cash,Bengaluru
+264,07-06-2024,3964,115,Electronics,8517.38,2,Credit Card,Chennai
+265,17-06-2025,4779,678,Beauty,6194.51,6,Credit Card,Hyderabad
+266,10-02-2025,4386,921,Toys,9595.57,2,Debit Card,Mumbai
+267,28-03-2025,4285,927,Beauty,8251.97,1,Cash,Mumbai
+268,12-02-2025,4846,645,Toys,5663,8,Net Banking,Mumbai
+269,26-11-2023,2846,122,Toys,8546.29,9,Debit Card,Ahmedabad
+270,15-09-2025,2811,584,Books,2700.48,1,Net Banking,Pune
+271,18-09-2024,4671,735,Electronics,1869.79,5,Cash,Bengaluru
+272,07-06-2024,2888,130,Toys,4387.16,2,Cash,Pune
+273,14-04-2023,1646,166,Electronics,9314.48,5,Debit Card,Pune
+274,25-08-2024,3470,505,Grocery,1915.35,6,Net Banking,Lucknow
+275,12-10-2023,3081,666,Books,2072.55,7,Net Banking,Pune
+276,05-07-2023,2660,829,Books,9920.6,9,Cash,Lucknow
+277,04-06-2023,2337,248,Toys,8892.3,4,Net Banking,Mumbai
+278,31-07-2023,3520,483,Home,4605.05,8,Credit Card,Lucknow
+279,04-11-2023,4443,764,Clothing,3560.82,2,UPI,Bengaluru
+280,25-12-2024,1803,221,Home,4973.85,3,UPI,Delhi
+281,05-10-2023,4405,229,Electronics,4622.48,3,UPI,Bengaluru
+282,07-01-2023,2573,426,Electronics,5056.22,8,Debit Card,Jaipur
+283,06-06-2024,4856,228,Beauty,2095.51,5,UPI,Lucknow
+284,13-01-2024,3626,471,Electronics,5444.59,2,Cash,Lucknow
+285,26-11-2024,4323,860,Beauty,3449.27,8,Cash,Pune
+286,10-03-2023,1549,401,Toys,8293.07,8,Credit Card,Mumbai
+287,06-03-2023,2031,739,Beauty,3001.83,1,Cash,Bengaluru
+288,15-06-2023,3819,529,Home,4199.69,9,Credit Card,Kolkata
+289,22-04-2025,1285,696,Clothing,4256.84,6,UPI,Mumbai
+290,14-02-2025,3733,873,Grocery,7898.9,6,Cash,Ahmedabad
+291,24-10-2023,1057,739,Grocery,1598.53,4,UPI,Ahmedabad
+292,21-08-2023,1683,367,Toys,1914.4,4,UPI,Jaipur
+293,30-07-2023,2849,384,Books,8781.44,6,Cash,Delhi
+294,30-09-2024,2119,824,Toys,7379.05,2,Credit Card,Lucknow
+295,27-09-2023,4330,145,Clothing,4103.62,7,Cash,Mumbai
+296,27-07-2025,2663,421,Grocery,2695.7,3,Credit Card,Lucknow
+297,20-03-2025,2669,455,Home,3615.17,3,Cash,Lucknow
+298,14-09-2025,4325,399,Electronics,1426.84,2,Credit Card,Jaipur
+299,09-10-2024,2836,617,Electronics,4959.78,4,Cash,Chennai
+300,14-10-2024,3835,723,Home,6937.59,7,Debit Card,Lucknow
+301,05-12-2023,3119,662,Home,6089.26,7,Debit Card,Mumbai
+302,11-03-2024,1585,220,Beauty,5758.25,9,UPI,Kolkata
+303,02-01-2024,3490,515,Clothing,2466.77,3,Net Banking,Pune
+304,24-10-2024,3714,240,Electronics,3882.74,8,Debit Card,Mumbai
+305,25-08-2024,3042,550,Clothing,4513.54,6,Debit Card,Delhi
+306,03-08-2023,1345,287,Electronics,1151.38,3,Credit Card,Lucknow
+307,25-02-2024,2654,344,Grocery,5294.85,4,Debit Card,Bengaluru
+308,12-07-2023,2847,515,Grocery,1345.8,4,Debit Card,Hyderabad
+309,18-02-2023,2304,143,Home,5120.96,9,UPI,Chennai
+310,07-05-2023,1783,517,Books,251.78,4,Net Banking,Kolkata
+311,12-12-2023,2416,888,Books,1473.02,3,Debit Card,Kolkata
+312,20-09-2024,1255,546,Beauty,1010.19,2,Net Banking,Lucknow
+313,12-09-2024,3479,225,Clothing,4615.22,1,Cash,Jaipur
+314,28-01-2023,1116,722,Grocery,4287.74,3,Net Banking,Pune
+315,26-02-2024,1880,589,Clothing,7734.45,8,UPI,Ahmedabad
+316,18-02-2023,3451,766,Grocery,4972.53,7,Net Banking,Bengaluru
+317,12-04-2024,2371,866,Beauty,9545.39,4,Credit Card,Delhi
+318,01-10-2025,4461,374,Grocery,9853.13,2,Cash,Kolkata
+319,12-04-2025,2137,204,Beauty,8027.34,1,UPI,Kolkata
+320,07-10-2024,1213,872,Beauty,9561.57,2,Debit Card,Chennai
+321,10-09-2023,2204,954,Beauty,265.4,6,Net Banking,Pune
+322,25-05-2023,1200,833,Electronics,892.35,6,Net Banking,Kolkata
+323,11-03-2025,3978,781,Grocery,9500.05,3,Credit Card,Delhi
+324,09-12-2024,4435,329,Electronics,7283.78,8,Debit Card,Delhi
+325,15-04-2023,4357,680,Clothing,5740.49,3,Credit Card,Mumbai
+326,25-03-2025,4510,103,Books,2787.23,8,Debit Card,Ahmedabad
+327,17-04-2025,2352,313,Toys,2344.78,9,Cash,Jaipur
+328,26-04-2023,2091,290,Grocery,4056.03,1,Cash,Mumbai
+329,04-04-2023,1193,184,Electronics,5231.59,3,UPI,Delhi
+330,03-12-2023,3875,158,Toys,4664.41,1,UPI,Ahmedabad
+331,17-02-2023,4513,557,Clothing,8271.27,6,Cash,Mumbai
+332,10-06-2023,4580,853,Home,6875.08,3,Debit Card,Lucknow
+333,23-01-2024,1768,537,Books,4446.55,7,UPI,Mumbai
+334,13-09-2024,4381,471,Grocery,6079.55,1,Debit Card,Ahmedabad
+335,05-06-2023,2675,509,Beauty,7430.69,9,Credit Card,Kolkata
+336,03-05-2025,3800,567,Electronics,2955.81,8,Debit Card,Jaipur
+337,03-11-2024,1324,163,Home,6609.45,4,Credit Card,Lucknow
+338,04-05-2025,3072,543,Electronics,7114.78,7,Cash,Bengaluru
+339,05-07-2024,4150,653,Books,6394.53,7,Credit Card,Pune
+340,23-10-2024,1947,452,Books,1280.27,3,Credit Card,Pune
+341,07-04-2025,3805,689,Clothing,4424.23,6,UPI,Delhi
+342,13-06-2024,4684,386,Home,6424.29,9,Credit Card,Lucknow
+343,11-01-2023,3609,752,Toys,8342.24,5,Credit Card,Delhi
+344,24-03-2025,4193,445,Toys,1490.94,8,Cash,Chennai
+345,13-12-2024,2636,619,Electronics,4143.25,7,UPI,Delhi
+346,15-08-2024,3115,757,Home,1160.03,7,Credit Card,Mumbai
+347,12-09-2023,1212,769,Books,4062.06,9,Debit Card,Bengaluru
+348,26-02-2025,3554,844,Electronics,7493.68,8,Debit Card,Lucknow
+349,27-08-2025,1493,469,Home,3016.11,5,Net Banking,Bengaluru
+350,09-06-2023,2726,714,Electronics,7134.8,1,Credit Card,Delhi
+351,25-04-2025,1239,975,Clothing,8907.1,2,UPI,Bengaluru
+352,23-01-2023,2114,968,Books,8775.38,2,Cash,Pune
+353,20-01-2025,1392,309,Beauty,3055.38,3,UPI,Chennai
+354,01-05-2023,4270,469,Toys,6074.76,1,UPI,Kolkata
+355,20-07-2025,3617,807,Electronics,4734.02,2,Debit Card,Ahmedabad
+356,04-10-2024,1940,119,Grocery,7791.14,4,Net Banking,Chennai
+357,01-10-2025,1876,351,Toys,3129.6,5,Credit Card,Delhi
+358,10-08-2023,3523,774,Beauty,7805.4,2,UPI,Pune
+359,26-01-2025,3646,200,Clothing,672.02,1,Credit Card,Pune
+360,12-10-2023,3612,627,Books,3014.09,2,Debit Card,Jaipur
+361,04-11-2024,3799,766,Electronics,5953.41,1,Net Banking,Pune
+362,07-05-2024,3889,397,Beauty,6134.38,2,Debit Card,Lucknow
+363,26-02-2024,1590,359,Home,8746.32,1,Net Banking,Ahmedabad
+364,27-07-2025,2544,955,Clothing,7814.49,3,Cash,Kolkata
+365,25-12-2024,2970,139,Electronics,6040.17,6,UPI,Mumbai
+366,01-01-2023,1078,665,Home,8562.13,9,Cash,Bengaluru
+367,18-06-2023,1680,955,Toys,6080.14,9,Credit Card,Ahmedabad
+368,07-08-2023,1127,127,Beauty,2690.57,9,UPI,Pune
+369,07-07-2025,1088,305,Grocery,6441.39,7,Net Banking,Bengaluru
+370,02-07-2024,2632,304,Beauty,6947.88,5,Cash,Chennai
+371,26-08-2023,3607,650,Toys,5335.69,8,Net Banking,Delhi
+372,23-04-2023,4269,751,Grocery,550.27,9,Credit Card,Bengaluru
+373,27-08-2025,1378,821,Books,3276.09,8,UPI,Mumbai
+374,06-11-2023,4043,336,Grocery,9191.64,1,Credit Card,Ahmedabad
+375,26-01-2023,2250,512,Home,6060.17,4,Cash,Bengaluru
+376,02-04-2023,3090,947,Clothing,1095.63,4,Net Banking,Lucknow
+377,28-02-2024,4159,920,Clothing,6566.33,3,Credit Card,Jaipur
+378,22-09-2025,2858,740,Grocery,7840.87,6,UPI,Ahmedabad
+379,23-03-2023,2608,514,Grocery,5899.06,1,UPI,Kolkata
+380,15-04-2024,2725,971,Electronics,1215.63,7,UPI,Delhi
+381,17-03-2024,4141,242,Clothing,2631.1,5,Debit Card,Lucknow
+382,13-02-2023,3597,144,Toys,6662.91,7,Cash,Hyderabad
+383,05-11-2024,3058,432,Books,7195.22,6,Credit Card,Chennai
+384,07-09-2023,3958,165,Electronics,7790.92,1,Credit Card,Bengaluru
+385,22-02-2023,2698,129,Clothing,7938.1,5,Net Banking,Pune
+386,21-02-2025,2721,255,Beauty,8216.2,2,Credit Card,Kolkata
+387,11-04-2024,2353,763,Grocery,2260.03,8,Cash,Jaipur
+388,13-05-2023,3178,310,Clothing,3131.94,9,Credit Card,Hyderabad
+389,25-10-2024,4162,274,Clothing,3372.23,5,Credit Card,Delhi
+390,10-07-2023,3374,926,Toys,2638.91,2,Cash,Ahmedabad
+391,28-01-2023,1860,366,Clothing,1203.69,7,Debit Card,Delhi
+392,02-08-2023,3080,187,Toys,3347.13,3,Debit Card,Kolkata
+393,07-03-2023,3158,992,Beauty,5331.06,6,Debit Card,Delhi
+394,29-06-2025,1458,951,Clothing,6236.48,7,Cash,Chennai
+395,30-09-2025,1542,800,Beauty,8169.28,3,Debit Card,Ahmedabad
+396,04-12-2023,1760,703,Toys,6034.14,1,Net Banking,Delhi
+397,04-01-2025,4990,730,Books,2675.06,8,Net Banking,Kolkata
+398,18-09-2024,3678,846,Home,5559.94,6,UPI,Mumbai
+399,08-06-2025,1447,720,Grocery,9876.6,7,UPI,Chennai
+400,02-09-2025,2185,985,Toys,3437.74,1,Credit Card,Mumbai
+401,01-04-2023,3939,389,Toys,1847.43,5,UPI,Kolkata
+402,10-04-2024,2190,803,Electronics,3354.46,2,UPI,Bengaluru
+403,22-09-2024,2764,521,Grocery,1016.77,4,Credit Card,Hyderabad
+404,16-04-2024,1513,996,Books,7972,1,Net Banking,Pune
+405,27-02-2024,1018,921,Home,943.3,9,UPI,Jaipur
+406,27-03-2025,3225,732,Home,1240.78,2,Credit Card,Mumbai
+407,07-06-2024,1752,875,Beauty,6701.92,1,Credit Card,Hyderabad
+408,03-08-2023,4006,589,Books,3375.39,2,Cash,Lucknow
+409,02-03-2024,2119,889,Beauty,1473.4,3,UPI,Delhi
+410,20-03-2024,3357,425,Home,1870.31,9,Net Banking,Kolkata
+411,27-09-2024,3324,855,Grocery,8525.8,4,Cash,Chennai
+412,04-12-2023,2100,410,Grocery,4998.22,4,Net Banking,Pune
+413,11-03-2023,1015,138,Books,2185.02,3,Cash,Jaipur
+414,11-03-2025,1705,807,Books,2611.04,9,UPI,Ahmedabad
+415,22-05-2025,4449,359,Grocery,315.45,5,Net Banking,Lucknow
+416,29-11-2024,4743,944,Home,4443.77,8,Cash,Chennai
+417,03-08-2024,3255,244,Beauty,8769.62,6,Cash,Lucknow
+418,22-11-2024,4099,596,Books,1157.75,7,Debit Card,Mumbai
+419,28-12-2023,4530,298,Toys,5459.63,2,Debit Card,Jaipur
+420,18-03-2024,3343,705,Beauty,1732.46,7,Debit Card,Bengaluru
+421,19-03-2023,1865,673,Grocery,6489.23,8,Credit Card,Kolkata
+422,29-11-2023,3676,582,Books,6767.83,8,Debit Card,Bengaluru
+423,12-01-2024,4054,849,Clothing,8942.36,5,Net Banking,Bengaluru
+424,23-11-2024,2392,678,Toys,1835.42,4,Credit Card,Delhi
+425,19-03-2025,1072,149,Grocery,2200.71,1,Cash,Bengaluru
+426,28-07-2025,2155,847,Home,7486.28,6,Net Banking,Chennai
+427,27-03-2023,4548,339,Beauty,4048.06,2,Cash,Kolkata
+428,12-04-2024,3554,429,Toys,7363.78,9,Credit Card,Delhi
+429,19-09-2023,4480,470,Toys,9453.17,7,UPI,Lucknow
+430,02-02-2024,1343,262,Home,3105.08,7,Credit Card,Delhi
+431,30-07-2024,4927,249,Beauty,4120.23,7,UPI,Hyderabad
+432,08-05-2023,2339,434,Clothing,5745.14,6,UPI,Hyderabad
+433,08-06-2023,3612,198,Home,6473.53,2,Net Banking,Lucknow
+434,08-12-2024,4522,483,Clothing,5799.72,6,Cash,Bengaluru
+435,13-11-2024,2182,537,Grocery,4195.06,4,Credit Card,Chennai
+436,09-05-2025,3147,531,Electronics,9378.24,6,UPI,Pune
+437,24-07-2024,4679,665,Toys,4265.15,4,Debit Card,Kolkata
+438,25-08-2025,1083,678,Clothing,1534,3,Cash,Jaipur
+439,12-02-2024,3863,344,Beauty,7491.49,2,UPI,Hyderabad
+440,01-06-2024,4921,527,Electronics,7106.39,2,Cash,Kolkata
+441,07-12-2024,2948,280,Books,4445.26,7,Net Banking,Chennai
+442,12-04-2023,1915,406,Books,8629.92,6,Net Banking,Kolkata
+443,02-06-2024,4996,507,Beauty,1456.76,3,Net Banking,Jaipur
+444,23-01-2024,3524,857,Clothing,2996.78,3,Net Banking,Delhi
+445,30-12-2023,1102,680,Toys,1386.1,1,Debit Card,Lucknow
+446,19-12-2024,3206,497,Electronics,777.04,1,Net Banking,Kolkata
+447,20-03-2023,3189,697,Clothing,2866.32,4,Debit Card,Pune
+448,19-10-2023,4750,866,Home,3075.74,8,UPI,Lucknow
+449,27-06-2025,1199,722,Electronics,4560.64,1,Cash,Hyderabad
+450,18-11-2023,1212,560,Toys,5626.8,4,Debit Card,Mumbai
+451,26-04-2023,3548,796,Clothing,3253.67,7,UPI,Kolkata
+452,05-10-2023,1368,822,Electronics,5052.74,9,Debit Card,Pune
+453,20-05-2025,2942,670,Books,231.05,3,Credit Card,Mumbai
+454,14-09-2023,4616,235,Home,1878.45,7,Debit Card,Lucknow
+455,10-12-2023,2810,776,Electronics,8102.93,8,Debit Card,Bengaluru
+456,19-11-2024,1896,573,Beauty,8156.34,2,UPI,Ahmedabad
+457,23-03-2024,4226,157,Beauty,2771.58,8,Debit Card,Jaipur
+458,27-04-2025,4897,893,Electronics,1620.63,2,Net Banking,Kolkata
+459,04-08-2023,3560,892,Grocery,6950.37,7,Cash,Pune
+460,10-11-2024,4951,188,Beauty,3953.87,5,Credit Card,Delhi
+461,20-06-2025,1565,672,Beauty,3394.29,2,Credit Card,Jaipur
+462,07-03-2025,2567,971,Electronics,2098.73,5,UPI,Kolkata
+463,07-04-2023,1146,765,Clothing,4749.77,3,Net Banking,Lucknow
+464,12-09-2025,4618,136,Grocery,1614.76,6,Debit Card,Chennai
+465,22-05-2025,4038,389,Electronics,7138.33,9,UPI,Hyderabad
+466,07-03-2024,4889,407,Clothing,9569.88,7,Net Banking,Hyderabad
+467,11-03-2023,2684,407,Books,7511.7,2,Net Banking,Hyderabad
+468,21-12-2023,1030,497,Grocery,7203.22,2,Cash,Mumbai
+469,29-12-2023,4758,654,Toys,4843.82,4,Cash,Chennai
+470,05-11-2024,1288,989,Books,9953.92,4,Credit Card,Kolkata
+471,19-05-2025,3284,371,Grocery,8213.27,8,Cash,Kolkata
+472,03-04-2023,2164,390,Electronics,7472,4,Cash,Kolkata
+473,24-09-2024,3900,525,Toys,1708.97,6,Net Banking,Delhi
+474,29-06-2024,3960,695,Books,2308.04,3,Cash,Lucknow
+475,13-11-2024,4623,654,Home,1512.55,5,Credit Card,Lucknow
+476,08-04-2024,3485,867,Beauty,4107.4,9,UPI,Hyderabad
+477,21-06-2024,3694,539,Home,3231.96,2,UPI,Ahmedabad
+478,19-08-2023,3148,679,Home,3937.23,4,Cash,Hyderabad
+479,11-09-2025,1462,675,Home,5050.01,9,Net Banking,Lucknow
+480,08-04-2023,1083,842,Toys,9332.37,3,UPI,Hyderabad
+481,11-12-2024,3550,997,Toys,5067.84,4,Debit Card,Pune
+482,22-02-2024,2935,385,Books,5450.57,6,Cash,Kolkata
+483,24-02-2025,1931,313,Clothing,8887,7,Net Banking,Mumbai
+484,04-06-2025,4038,317,Home,6141.44,2,Cash,Ahmedabad
+485,10-12-2023,4354,607,Books,588.19,7,Debit Card,Hyderabad
+486,04-11-2024,4385,952,Clothing,9141.78,7,Cash,Pune
+487,08-09-2023,4110,197,Clothing,9118.29,4,UPI,Pune
+488,12-04-2025,1074,838,Toys,9363.94,5,Credit Card,Delhi
+489,13-02-2024,3847,451,Grocery,1863.96,1,UPI,Kolkata
+490,30-10-2023,3755,299,Grocery,7897.14,6,Debit Card,Mumbai
+491,17-09-2024,4070,851,Toys,4254.14,9,UPI,Pune
+492,30-06-2024,2254,837,Toys,3400.9,2,Credit Card,Kolkata
+493,26-05-2024,2513,710,Clothing,215.91,1,Cash,Delhi
+494,30-01-2024,1489,496,Books,1246.26,9,Credit Card,Chennai
+495,07-01-2025,1364,501,Toys,630.27,2,Debit Card,Lucknow
+496,30-04-2025,1291,505,Grocery,6081.87,4,Credit Card,Mumbai
+497,20-01-2024,2095,534,Books,777.82,4,UPI,Kolkata
+498,22-12-2023,4195,720,Home,6950.86,5,Debit Card,Ahmedabad
+499,29-08-2025,3691,391,Home,443.49,3,Debit Card,Ahmedabad
+500,10-09-2024,4289,962,Toys,2745.89,1,UPI,Delhi
+501,19-04-2023,2128,501,Toys,3525.25,6,Debit Card,Bengaluru
+502,19-06-2024,3720,426,Clothing,2745.19,1,UPI,Delhi
+503,31-05-2023,3219,799,Home,8141.62,4,Cash,Hyderabad
+504,26-03-2025,2048,193,Home,8665.36,9,Cash,Jaipur
+505,06-03-2023,1656,275,Beauty,1782.71,2,Debit Card,Ahmedabad
+506,16-04-2024,3478,956,Home,8082.07,6,Net Banking,Hyderabad
+507,09-01-2024,4409,124,Clothing,1576.26,6,Credit Card,Chennai
+508,09-06-2023,3864,737,Electronics,7879.16,2,Credit Card,Ahmedabad
+509,13-07-2025,1493,747,Electronics,1540.37,3,UPI,Mumbai
+510,03-06-2023,1354,148,Beauty,9746.31,9,Debit Card,Pune
+511,19-03-2024,4597,839,Home,2560.22,5,Net Banking,Chennai
+512,23-06-2023,2879,996,Clothing,6110.17,1,Debit Card,Hyderabad
+513,27-09-2025,1406,206,Toys,5567.09,3,Debit Card,Delhi
+514,14-02-2024,1802,647,Electronics,6125.68,9,UPI,Kolkata
+515,04-01-2023,3714,816,Beauty,2547.83,8,Credit Card,Kolkata
+516,19-09-2025,1161,941,Toys,5740.09,4,Credit Card,Chennai
+517,14-01-2024,2301,145,Books,7737.75,3,UPI,Pune
+518,04-11-2023,3433,951,Home,6645.71,2,Credit Card,Delhi
+519,06-11-2023,2939,783,Toys,8277.3,5,Cash,Kolkata
+520,02-03-2023,1167,180,Books,3314.16,1,Cash,Chennai
+521,31-07-2023,1304,930,Beauty,6674.99,2,Net Banking,Kolkata
+522,19-12-2024,4197,217,Beauty,2990.68,2,Net Banking,Kolkata
+523,08-06-2024,3685,812,Clothing,6228.39,8,Cash,Chennai
+524,17-08-2025,3271,544,Grocery,1167.72,7,UPI,Hyderabad
+525,19-05-2023,2193,906,Home,8420.01,4,Cash,Mumbai
+526,03-05-2025,3162,999,Books,159.03,5,Credit Card,Pune
+527,19-12-2023,4017,289,Beauty,7350.59,7,Net Banking,Mumbai
+528,11-02-2025,4706,416,Electronics,7310.08,1,Cash,Jaipur
+529,30-07-2023,3242,389,Toys,8167.28,3,Cash,Kolkata
+530,17-01-2025,3387,723,Electronics,1791.69,3,Cash,Pune
+531,18-03-2025,4848,561,Grocery,2640.22,6,Net Banking,Kolkata
+532,28-05-2023,2334,854,Electronics,555.61,5,Cash,Hyderabad
+533,10-06-2024,3670,953,Clothing,6580.7,2,UPI,Jaipur
+534,22-03-2025,3216,920,Toys,3286.29,5,Credit Card,Mumbai
+535,02-05-2025,2234,362,Grocery,5252.32,5,Debit Card,Jaipur
+536,19-06-2024,4946,574,Toys,4098.4,3,UPI,Jaipur
+537,29-08-2025,4381,331,Beauty,3523.76,9,Debit Card,Jaipur
+538,16-08-2025,3573,662,Toys,5212.47,2,UPI,Ahmedabad
+539,20-03-2024,3030,289,Books,2638.5,2,UPI,Ahmedabad
+540,31-12-2024,2539,402,Beauty,9247.75,8,Debit Card,Pune
+541,11-05-2023,3992,983,Electronics,3639.79,4,UPI,Chennai
+542,15-10-2023,4664,700,Grocery,9470.84,9,Cash,Jaipur
+543,25-09-2023,4183,305,Beauty,7244.04,5,UPI,Jaipur
+544,06-07-2023,1921,324,Beauty,150.93,6,Cash,Kolkata
+545,21-08-2023,2269,704,Grocery,7854.19,7,Credit Card,Hyderabad
+546,05-08-2025,2795,187,Clothing,8695.53,5,UPI,Pune
+547,11-07-2024,1182,969,Toys,8901.39,8,Credit Card,Jaipur
+548,01-07-2023,3130,373,Grocery,744.53,8,UPI,Ahmedabad
+549,08-03-2025,2698,219,Home,895.31,6,Cash,Bengaluru
+550,03-10-2023,1903,100,Grocery,9495.3,2,Net Banking,Pune
+551,21-09-2025,3384,613,Home,989.3,1,Credit Card,Chennai
+552,22-07-2023,3027,418,Clothing,836.13,5,Net Banking,Ahmedabad
+553,07-09-2025,3204,839,Books,2716.4,3,Net Banking,Mumbai
+554,16-10-2023,1054,316,Clothing,7021.75,3,Credit Card,Ahmedabad
+555,20-04-2023,3493,350,Books,2239.11,7,Cash,Lucknow
+556,09-07-2024,1689,139,Toys,4071.22,7,Cash,Kolkata
+557,01-03-2023,4360,538,Clothing,4153.19,2,Cash,Mumbai
+558,05-06-2025,3769,951,Toys,3981.12,4,Credit Card,Hyderabad
+559,02-04-2025,1119,648,Home,1490.97,6,Cash,Chennai
+560,02-04-2025,2193,267,Beauty,1775.28,6,Debit Card,Kolkata
+561,09-12-2024,3302,876,Clothing,9986.75,5,Cash,Bengaluru
+562,08-05-2024,4805,955,Electronics,464.63,2,Cash,Ahmedabad
+563,03-07-2023,1120,814,Clothing,688,5,Credit Card,Pune
+564,22-08-2025,4401,971,Toys,451.19,3,Cash,Jaipur
+565,16-05-2023,3917,962,Home,9689.55,1,Credit Card,Ahmedabad
+566,16-01-2025,1458,405,Grocery,1338.25,4,Cash,Kolkata
+567,30-09-2023,4475,403,Toys,8821.26,3,Debit Card,Jaipur
+568,05-03-2024,2984,284,Home,2828.28,4,Debit Card,Bengaluru
+569,05-02-2024,3925,144,Home,8812.79,3,Debit Card,Kolkata
+570,19-10-2024,1518,257,Grocery,8931.25,7,Net Banking,Ahmedabad
+571,25-04-2025,4648,840,Electronics,6918.31,9,Debit Card,Delhi
+572,27-07-2024,4205,742,Home,7901.69,1,Debit Card,Chennai
+573,18-12-2024,1659,148,Books,2724.77,1,Cash,Hyderabad
+574,28-09-2025,4468,738,Clothing,2016.1,2,Cash,Delhi
+575,02-06-2024,3057,162,Electronics,6257.34,2,Credit Card,Chennai
+576,28-10-2023,2747,220,Home,8230.81,8,Cash,Jaipur
+577,20-07-2024,4309,721,Toys,8885.28,5,UPI,Lucknow
+578,28-04-2023,4053,408,Books,869.41,9,Credit Card,Jaipur
+579,29-05-2024,1755,139,Electronics,7537.21,5,Credit Card,Mumbai
+580,25-02-2023,1922,854,Toys,531.88,7,Net Banking,Jaipur
+581,30-04-2024,3545,640,Electronics,5499.38,2,Cash,Ahmedabad
+582,05-05-2023,4231,210,Toys,5811.22,8,Net Banking,Kolkata
+583,18-04-2024,1319,691,Grocery,8579.53,6,UPI,Hyderabad
+584,14-08-2023,1582,952,Books,2808.9,4,Debit Card,Bengaluru
+585,07-09-2024,2467,336,Toys,1331.17,5,Credit Card,Lucknow
+586,13-10-2024,1836,502,Grocery,5332.42,9,Debit Card,Mumbai
+587,01-06-2024,1618,970,Toys,7411.92,5,UPI,Ahmedabad
+588,02-09-2025,1937,782,Grocery,1704.67,9,UPI,Pune
+589,22-05-2023,3025,598,Home,1447.32,7,Cash,Bengaluru
+590,10-04-2023,1060,925,Electronics,7768.34,1,Net Banking,Pune
+591,23-05-2024,4432,477,Home,224.87,2,UPI,Pune
+592,24-07-2024,3434,523,Toys,3748.24,1,Debit Card,Delhi
+593,18-02-2024,3812,850,Beauty,8624.23,3,Cash,Pune
+594,23-08-2023,1722,192,Home,4178.55,8,Net Banking,Hyderabad
+595,05-02-2025,4879,314,Beauty,7467.07,3,Cash,Delhi
+596,12-02-2023,3372,135,Home,6870.36,6,Cash,Ahmedabad
+597,12-02-2025,1674,557,Electronics,6036.09,2,Cash,Chennai
+598,23-09-2023,2579,169,Books,5859.52,7,Debit Card,Pune
+599,31-03-2023,3623,562,Beauty,1745.86,2,Cash,Lucknow
+600,05-02-2025,4705,936,Books,3951.21,3,Net Banking,Lucknow
+601,23-01-2024,2460,436,Toys,1121.61,5,Credit Card,Bengaluru
+602,27-07-2025,2917,981,Toys,1334.07,7,Credit Card,Bengaluru
+603,07-10-2024,1775,815,Grocery,7167.14,1,UPI,Mumbai
+604,05-12-2024,3574,818,Toys,2378.72,7,Cash,Ahmedabad
+605,23-07-2023,1497,272,Electronics,1156.51,2,Cash,Delhi
+606,28-05-2023,2513,463,Toys,5351.74,1,UPI,Bengaluru
+607,04-02-2025,1329,916,Toys,800.55,5,Net Banking,Mumbai
+608,12-12-2024,3893,867,Beauty,4384.29,9,Net Banking,Bengaluru
+609,27-03-2023,4466,819,Books,8376.85,8,Debit Card,Lucknow
+610,12-07-2024,1100,467,Home,2057.52,3,Cash,Chennai
+611,22-01-2023,3266,534,Home,4722.84,7,Credit Card,Pune
+612,08-08-2023,3219,780,Home,5906.84,5,Net Banking,Lucknow
+613,08-02-2025,4442,886,Electronics,6352.46,9,Credit Card,Kolkata
+614,14-02-2024,1062,127,Home,5333.94,1,Debit Card,Ahmedabad
+615,20-11-2024,2519,348,Clothing,7956.2,1,Debit Card,Bengaluru
+616,19-12-2024,2093,870,Grocery,1748.96,9,Cash,Ahmedabad
+617,07-01-2024,2877,803,Grocery,1760.97,4,Debit Card,Ahmedabad
+618,10-05-2025,2038,633,Clothing,6419.99,4,Debit Card,Pune
+619,26-08-2025,3073,528,Electronics,472.04,2,Net Banking,Lucknow
+620,09-10-2024,4732,387,Clothing,5690.25,3,Credit Card,Jaipur
+621,21-07-2025,2512,348,Grocery,9727.42,1,Debit Card,Jaipur
+622,24-09-2025,3742,410,Electronics,1222.56,3,Credit Card,Mumbai
+623,22-12-2024,1760,328,Grocery,8077.2,8,Cash,Mumbai
+624,03-08-2025,1509,418,Home,4993.49,4,Debit Card,Ahmedabad
+625,13-12-2023,2244,291,Clothing,2504.16,6,Cash,Jaipur
+626,08-10-2024,2801,383,Beauty,1706.52,5,Cash,Chennai
+627,12-12-2023,2645,462,Books,3546.62,2,Net Banking,Delhi
+628,21-11-2023,2546,347,Beauty,7456.72,6,UPI,Bengaluru
+629,22-08-2025,1640,800,Toys,2963.75,4,Debit Card,Hyderabad
+630,05-06-2023,4621,239,Clothing,7939.8,9,Credit Card,Hyderabad
+631,30-09-2025,2994,565,Grocery,8547.9,9,Debit Card,Mumbai
+632,23-01-2024,3589,707,Electronics,9482.57,4,Cash,Jaipur
+633,30-08-2024,1465,332,Grocery,2857.1,4,UPI,Lucknow
+634,11-05-2024,3276,143,Home,3314.39,1,Cash,Jaipur
+635,23-08-2025,4363,702,Beauty,556.91,8,Net Banking,Lucknow
+636,11-07-2024,4220,680,Beauty,9766.5,2,Cash,Jaipur
+637,14-12-2023,1543,219,Toys,5721.9,2,Cash,Lucknow
+638,08-04-2025,2245,564,Electronics,3096.86,6,Cash,Pune
+639,26-07-2024,1353,211,Home,9374.1,4,Cash,Hyderabad
+640,05-01-2025,1371,558,Toys,5479.84,1,Credit Card,Bengaluru
+641,30-04-2025,4968,682,Clothing,4119.73,6,Debit Card,Jaipur
+642,31-01-2025,4948,485,Electronics,2268.86,5,UPI,Kolkata
+643,05-09-2023,3377,632,Toys,2723.96,5,Debit Card,Jaipur
+644,29-10-2023,1216,631,Grocery,2945.77,9,Net Banking,Hyderabad
+645,25-06-2023,3555,684,Grocery,9692.26,9,Credit Card,Hyderabad
+646,27-07-2025,4763,920,Beauty,8698.8,2,Net Banking,Kolkata
+647,18-08-2025,1292,541,Books,7379.05,9,UPI,Mumbai
+648,24-03-2024,1299,593,Beauty,1252.33,8,Credit Card,Jaipur
+649,26-08-2025,2160,751,Beauty,2215.76,9,Cash,Kolkata
+650,13-11-2023,3055,745,Beauty,1244.78,2,Credit Card,Ahmedabad
+651,10-03-2023,2562,594,Beauty,5450.5,3,Credit Card,Mumbai
+652,30-04-2023,1911,142,Toys,150.78,1,Cash,Jaipur
+653,01-03-2023,1566,111,Toys,8606.11,7,Cash,Jaipur
+654,05-08-2023,4727,579,Toys,2502.64,6,Credit Card,Delhi
+655,22-04-2025,1069,565,Books,1143.3,8,Cash,Kolkata
+656,07-08-2023,1013,813,Beauty,3423.08,5,UPI,Chennai
+657,30-09-2024,2076,657,Clothing,6778.91,4,Net Banking,Chennai
+658,04-10-2023,1567,598,Clothing,8040.49,2,Debit Card,Mumbai
+659,17-04-2025,2766,646,Clothing,5073.56,3,Credit Card,Pune
+660,11-05-2024,4903,637,Home,3680.54,5,Credit Card,Pune
+661,08-11-2024,3103,955,Grocery,9644.02,1,Credit Card,Bengaluru
+662,24-07-2025,4094,607,Beauty,1247.42,6,Debit Card,Hyderabad
+663,20-08-2023,1281,322,Books,4300.81,1,Net Banking,Lucknow
+664,24-06-2025,1799,561,Clothing,4385,3,Credit Card,Mumbai
+665,19-12-2024,1999,778,Beauty,5359.63,7,UPI,Lucknow
+666,19-11-2024,1089,250,Beauty,860.3,6,UPI,Kolkata
+667,10-09-2024,4487,763,Books,6307.62,7,Cash,Jaipur
+668,08-05-2023,3643,464,Toys,2895.86,3,Credit Card,Hyderabad
+669,25-11-2024,1766,933,Toys,4050.5,2,Debit Card,Hyderabad
+670,10-10-2024,3301,311,Grocery,4459.79,8,Debit Card,Hyderabad
+671,05-02-2025,4987,157,Grocery,3280.79,7,Credit Card,Ahmedabad
+672,07-04-2023,2330,776,Toys,2543.37,8,Net Banking,Lucknow
+673,14-02-2023,4243,821,Grocery,433.17,3,Net Banking,Jaipur
+674,13-08-2024,2915,119,Beauty,3985.88,2,Cash,Mumbai
+675,07-02-2024,3036,412,Beauty,3334.47,5,UPI,Jaipur
+676,16-05-2023,4943,629,Beauty,9121.05,2,Cash,Jaipur
+677,16-02-2023,3459,842,Clothing,6408.84,6,Net Banking,Pune
+678,21-07-2024,3693,602,Toys,1927.86,5,Net Banking,Pune
+679,12-04-2023,2080,425,Clothing,6796.93,1,Net Banking,Lucknow
+680,30-09-2025,1903,414,Beauty,7663.57,3,UPI,Pune
+681,27-03-2023,1116,974,Beauty,9934.66,6,UPI,Jaipur
+682,16-08-2024,1630,750,Beauty,744.95,7,Debit Card,Chennai
+683,25-12-2024,2126,904,Toys,7248.36,4,Cash,Bengaluru
+684,24-11-2023,4484,960,Grocery,3275.68,3,Net Banking,Lucknow
+685,12-02-2025,4200,929,Grocery,7504.09,5,UPI,Kolkata
+686,15-05-2025,1150,287,Toys,4336.62,8,Cash,Chennai
+687,27-05-2024,4568,110,Toys,3768.77,1,Net Banking,Ahmedabad
+688,11-09-2024,4010,824,Electronics,5264.02,6,UPI,Delhi
+689,04-06-2025,1374,402,Toys,9531.76,5,Credit Card,Lucknow
+690,05-01-2023,1585,631,Grocery,7570.08,3,Credit Card,Lucknow
+691,04-02-2023,1995,340,Beauty,3016.72,5,Net Banking,Jaipur
+692,31-01-2024,4790,961,Clothing,3380.56,1,Net Banking,Bengaluru
+693,01-05-2023,3641,752,Clothing,4920.82,1,Net Banking,Kolkata
+694,22-04-2024,4762,490,Books,6507.85,3,Cash,Jaipur
+695,10-05-2025,4929,609,Beauty,8966.24,4,Net Banking,Mumbai
+696,03-08-2023,2210,743,Books,6519.49,8,Net Banking,Delhi
+697,04-08-2025,3028,501,Beauty,4215.28,3,Cash,Mumbai
+698,01-03-2023,4179,454,Toys,7380.29,9,UPI,Kolkata
+699,25-01-2024,3425,153,Toys,9634.28,7,Credit Card,Mumbai
+700,15-02-2024,3456,630,Home,589.48,6,Debit Card,Kolkata
+701,06-06-2023,1612,232,Home,7421.72,6,Net Banking,Hyderabad
+702,09-07-2024,4618,485,Home,6546.48,6,Net Banking,Delhi
+703,23-01-2024,2110,982,Books,2134.07,2,Credit Card,Pune
+704,05-07-2025,2659,445,Toys,4577.12,1,UPI,Lucknow
+705,12-03-2025,2367,756,Grocery,4087.63,3,Net Banking,Ahmedabad
+706,05-02-2023,2623,349,Home,8894.72,8,Credit Card,Hyderabad
+707,12-01-2025,1604,780,Home,3986.04,4,Cash,Chennai
+708,04-05-2025,1760,156,Clothing,2809.1,1,UPI,Jaipur
+709,17-09-2025,1493,459,Books,6962.65,3,Debit Card,Mumbai
+710,24-02-2025,3043,901,Electronics,2681.02,7,Net Banking,Mumbai
+711,04-03-2025,3609,903,Home,2164.22,4,Credit Card,Lucknow
+712,03-01-2024,2056,528,Grocery,162.93,4,Net Banking,Kolkata
+713,17-03-2023,4113,542,Beauty,2678.64,4,Credit Card,Jaipur
+714,26-03-2025,3920,981,Grocery,8323.88,1,Credit Card,Bengaluru
+715,21-09-2025,3075,963,Home,6978.67,2,Cash,Mumbai
+716,07-07-2023,3432,716,Electronics,3703.77,1,Net Banking,Chennai
+717,06-12-2024,2188,871,Beauty,1397.46,4,Net Banking,Hyderabad
+718,05-03-2023,1953,541,Grocery,5422.43,1,Net Banking,Jaipur
+719,20-11-2023,1429,395,Electronics,2738.63,9,Credit Card,Hyderabad
+720,24-04-2023,2702,148,Books,2643.51,5,Cash,Kolkata
+721,25-04-2023,4805,834,Books,7539.94,9,Cash,Hyderabad
+722,02-04-2023,1493,517,Toys,8867.65,5,Cash,Mumbai
+723,08-05-2025,1918,825,Electronics,7299.65,8,Debit Card,Ahmedabad
+724,01-06-2024,1343,534,Beauty,2680.68,6,Credit Card,Jaipur
+725,21-09-2023,1197,452,Electronics,9084.75,4,UPI,Kolkata
+726,15-10-2023,3004,839,Home,8120.9,3,Cash,Pune
+727,14-08-2023,1832,496,Beauty,9236.49,3,UPI,Lucknow
+728,29-08-2023,4100,813,Grocery,4481.47,8,UPI,Jaipur
+729,15-05-2023,2861,180,Toys,1023.86,4,Credit Card,Hyderabad
+730,19-05-2023,3824,240,Beauty,1476.65,6,UPI,Ahmedabad
+731,13-09-2025,1459,822,Books,6087.01,4,UPI,Chennai
+732,18-10-2023,2643,724,Grocery,8847.71,5,Cash,Jaipur
+733,19-09-2023,4135,105,Grocery,8022.4,4,Net Banking,Lucknow
+734,26-12-2024,3145,470,Electronics,1916.62,4,Cash,Jaipur
+735,16-07-2023,1144,303,Toys,7391.33,1,Cash,Bengaluru
+736,07-05-2023,3059,185,Electronics,9580.3,8,Cash,Chennai
+737,13-03-2025,2906,817,Books,8280.59,1,Net Banking,Hyderabad
+738,26-04-2023,1361,487,Toys,9869.1,7,UPI,Hyderabad
+739,20-01-2023,2687,484,Electronics,6564.24,6,Cash,Ahmedabad
+740,16-04-2024,2453,942,Grocery,4263.58,5,Cash,Mumbai
+741,20-08-2024,2089,256,Home,5965.78,4,Net Banking,Chennai
+742,04-02-2025,2235,523,Beauty,957.46,9,Cash,Bengaluru
+743,06-06-2024,1482,246,Electronics,1723.36,3,Credit Card,Chennai
+744,28-06-2023,1111,207,Electronics,8696.25,7,Debit Card,Lucknow
+745,22-03-2025,4233,311,Beauty,1462.53,1,Credit Card,Kolkata
+746,15-06-2025,3687,250,Grocery,3152.66,7,Cash,Kolkata
+747,04-06-2025,3028,594,Home,4661.36,9,Credit Card,Lucknow
+748,08-01-2025,4079,787,Toys,9374.75,3,Credit Card,Mumbai
+749,09-02-2023,2799,800,Clothing,4651.06,2,Cash,Pune
+750,05-03-2023,2082,597,Electronics,4136.25,3,Credit Card,Lucknow
+751,16-12-2023,2631,765,Home,900.94,7,Debit Card,Mumbai
+752,26-05-2023,1255,548,Electronics,3680.32,3,Credit Card,Delhi
+753,19-06-2023,3955,644,Electronics,3422.76,8,Credit Card,Chennai
+754,20-07-2023,3273,368,Books,2635.36,7,Debit Card,Hyderabad
+755,19-03-2025,2273,454,Grocery,8150.79,6,UPI,Ahmedabad
+756,07-08-2023,1428,856,Beauty,1992.68,7,Credit Card,Mumbai
+757,10-01-2024,3740,832,Toys,9176.09,8,UPI,Hyderabad
+758,16-05-2023,2771,173,Books,4980.49,4,Net Banking,Kolkata
+759,03-10-2024,3114,752,Electronics,8937.71,1,Cash,Pune
+760,11-03-2025,4956,408,Books,5760.5,8,UPI,Pune
+761,02-04-2023,3973,297,Clothing,7499.34,8,UPI,Kolkata
+762,18-08-2023,1887,116,Grocery,9087.55,5,Net Banking,Mumbai
+763,25-08-2023,1099,559,Electronics,6983.09,8,Credit Card,Lucknow
+764,21-04-2024,3461,171,Grocery,778.25,7,Debit Card,Ahmedabad
+765,10-06-2024,2346,637,Books,3558.34,6,Cash,Mumbai
+766,24-06-2023,4392,463,Electronics,7851.36,5,Credit Card,Chennai
+767,30-08-2023,2158,953,Beauty,2290.85,5,UPI,Mumbai
+768,27-06-2023,1403,856,Books,7389.42,6,Credit Card,Delhi
+769,16-07-2024,1044,382,Home,8670.38,8,UPI,Chennai
+770,23-08-2023,1401,191,Toys,9451.4,5,Debit Card,Delhi
+771,19-04-2024,3315,693,Grocery,9567.53,2,Cash,Ahmedabad
+772,16-01-2023,3875,817,Books,6961.55,7,Net Banking,Jaipur
+773,29-03-2023,1138,634,Beauty,7506.51,4,Cash,Mumbai
+774,01-10-2025,3775,387,Home,4925.73,5,UPI,Kolkata
+775,01-05-2023,4331,761,Home,2885.11,2,Cash,Kolkata
+776,21-01-2023,1877,450,Home,2115.89,2,Credit Card,Jaipur
+777,13-07-2023,4099,977,Clothing,3962.11,7,Cash,Mumbai
+778,01-12-2023,2363,486,Home,5399.65,8,Credit Card,Lucknow
+779,08-06-2025,3372,195,Electronics,9771.09,7,Debit Card,Ahmedabad
+780,19-03-2024,3070,806,Beauty,6699.57,8,Net Banking,Delhi
+781,03-01-2024,2100,201,Beauty,7046.75,4,Cash,Kolkata
+782,14-01-2024,4084,538,Books,8160.91,1,Debit Card,Bengaluru
+783,09-06-2023,4068,469,Electronics,1733.53,1,Cash,Jaipur
+784,15-04-2024,4638,803,Electronics,6023.28,6,Credit Card,Jaipur
+785,13-12-2023,1304,987,Books,4652.25,4,Debit Card,Mumbai
+786,15-06-2023,4731,186,Electronics,1153.83,8,Debit Card,Chennai
+787,27-08-2025,4365,193,Grocery,5011.8,8,Debit Card,Bengaluru
+788,28-09-2025,4760,465,Beauty,1722.53,2,Credit Card,Jaipur
+789,14-03-2025,1906,420,Electronics,3589.37,3,Credit Card,Mumbai
+790,22-09-2025,3290,943,Beauty,7473.86,9,Credit Card,Jaipur
+791,24-04-2024,4356,287,Toys,7832.73,6,Cash,Kolkata
+792,01-03-2023,2275,755,Electronics,7213.29,9,Cash,Bengaluru
+793,24-03-2025,4452,106,Electronics,7980.63,4,Net Banking,Hyderabad
+794,07-08-2024,3620,230,Beauty,6122.59,4,UPI,Hyderabad
+795,06-04-2023,3291,689,Beauty,6986.27,8,Cash,Jaipur
+796,27-03-2023,1234,951,Beauty,4831.85,8,Net Banking,Ahmedabad
+797,24-09-2024,1013,963,Electronics,4879.57,6,Credit Card,Mumbai
+798,22-07-2024,1564,629,Clothing,1571.46,3,UPI,Kolkata
+799,12-01-2024,1824,580,Beauty,7441.75,4,Cash,Lucknow
+800,06-01-2024,2686,871,Grocery,3540.41,4,Cash,Hyderabad
+801,21-01-2023,4322,702,Clothing,593.11,3,Credit Card,Chennai
+802,06-08-2024,1802,579,Electronics,4948.85,6,Debit Card,Mumbai
+803,09-05-2023,3738,804,Home,9110.7,7,UPI,Bengaluru
+804,29-08-2025,3644,835,Electronics,8531.5,1,Net Banking,Pune
+805,14-01-2025,1863,338,Beauty,1519.92,4,Debit Card,Delhi
+806,06-01-2025,2171,239,Grocery,7412.45,9,Debit Card,Jaipur
+807,26-07-2023,2248,772,Electronics,6760.94,5,UPI,Pune
+808,07-01-2025,3908,109,Grocery,2842.86,2,Debit Card,Pune
+809,14-04-2023,2576,863,Electronics,2454.41,6,Debit Card,Mumbai
+810,19-07-2024,4041,842,Home,5835.73,8,Net Banking,Jaipur
+811,12-05-2025,2415,268,Books,1154.32,5,UPI,Chennai
+812,03-05-2024,3337,616,Grocery,8578.75,4,UPI,Kolkata
+813,19-09-2025,2555,533,Toys,6682.02,3,UPI,Pune
+814,25-11-2023,3671,326,Clothing,5533.61,8,Debit Card,Lucknow
+815,03-08-2023,1138,859,Grocery,7085.95,6,UPI,Pune
+816,02-04-2023,3124,507,Electronics,8045.11,2,UPI,Mumbai
+817,25-02-2025,2047,555,Toys,1683.01,8,Cash,Delhi
+818,19-10-2024,1382,880,Home,1646.75,4,Debit Card,Chennai
+819,23-03-2025,4127,805,Electronics,2410.45,5,UPI,Hyderabad
+820,22-05-2023,4373,881,Books,3610.98,8,UPI,Kolkata
+821,06-08-2024,1911,645,Clothing,4041.67,8,UPI,Delhi
+822,21-03-2025,3936,681,Beauty,1879.95,7,Net Banking,Bengaluru
+823,05-12-2023,1916,425,Books,1175.77,3,Debit Card,Kolkata
+824,13-09-2024,3371,914,Beauty,9337.08,7,Net Banking,Kolkata
+825,18-01-2024,3689,762,Books,2277.48,9,Cash,Jaipur
+826,25-06-2025,1575,764,Books,9817.58,8,Net Banking,Jaipur
+827,09-01-2023,3882,793,Books,7225.26,3,Credit Card,Jaipur
+828,22-07-2023,3615,740,Home,8211.41,2,Net Banking,Chennai
+829,04-06-2024,3360,437,Clothing,6877.34,1,UPI,Hyderabad
+830,25-01-2024,2398,852,Home,3158.32,3,Cash,Delhi
+831,02-10-2023,2225,238,Books,1194.18,4,Credit Card,Ahmedabad
+832,06-11-2023,3171,987,Toys,7199.67,5,Debit Card,Bengaluru
+833,10-05-2024,2409,450,Books,5288.74,7,Credit Card,Kolkata
+834,08-07-2024,3886,935,Clothing,3141.56,5,Net Banking,Pune
+835,02-07-2024,2555,574,Electronics,4183.49,2,Net Banking,Lucknow
+836,11-01-2023,2937,596,Home,9719.72,7,Net Banking,Jaipur
+837,10-01-2023,3854,428,Books,757.62,2,Net Banking,Mumbai
+838,23-09-2023,3219,632,Grocery,2918.12,5,Net Banking,Kolkata
+839,23-07-2023,4425,318,Clothing,8585.38,1,Debit Card,Delhi
+840,02-05-2024,1242,913,Electronics,928.71,3,Credit Card,Lucknow
+841,30-09-2023,1332,891,Home,1937.27,6,Debit Card,Pune
+842,06-10-2023,1533,817,Grocery,964.92,8,Debit Card,Jaipur
+843,09-09-2023,4078,879,Grocery,4483.17,9,Credit Card,Mumbai
+844,20-05-2024,2127,832,Clothing,4789.7,7,Credit Card,Chennai
+845,02-10-2024,1332,759,Clothing,5574.04,3,Net Banking,Delhi
+846,30-11-2023,2136,929,Electronics,8215.33,5,Credit Card,Kolkata
+847,18-03-2025,4563,742,Clothing,8248.53,5,Credit Card,Bengaluru
+848,28-03-2025,2138,608,Grocery,6200.28,4,Credit Card,Delhi
+849,05-02-2025,3895,298,Home,3752.66,2,Cash,Delhi
+850,19-11-2023,1003,866,Clothing,9923.68,1,Net Banking,Hyderabad
+851,16-01-2025,1315,501,Grocery,8457.86,9,Cash,Ahmedabad
+852,29-10-2023,2302,983,Electronics,133.99,7,Cash,Delhi
+853,18-01-2025,4355,517,Home,4978.93,8,Cash,Lucknow
+854,31-10-2024,2733,410,Home,9680.99,5,Net Banking,Chennai
+855,20-06-2025,4869,986,Home,5869.85,7,Credit Card,Lucknow
+856,23-01-2025,4168,869,Beauty,6294.93,8,Credit Card,Chennai
+857,02-02-2023,4014,865,Grocery,9405.34,2,Debit Card,Hyderabad
+858,12-06-2023,2822,360,Books,5153.18,8,Debit Card,Hyderabad
+859,31-05-2024,1074,215,Clothing,7995.46,1,Cash,Kolkata
+860,06-06-2023,2100,630,Toys,2700.19,9,Net Banking,Bengaluru
+861,13-07-2024,3384,922,Electronics,3132.78,9,UPI,Chennai
+862,14-04-2023,1933,195,Books,7674.11,4,Debit Card,Chennai
+863,01-02-2025,2804,674,Electronics,1009.17,4,Net Banking,Hyderabad
+864,22-01-2023,2050,106,Toys,6309.01,7,Net Banking,Delhi
+865,15-12-2024,3781,386,Toys,2696.16,2,UPI,Pune
+866,02-01-2023,4504,605,Home,7158.55,2,UPI,Chennai
+867,07-02-2024,2461,120,Home,3519.82,4,Cash,Hyderabad
+868,17-08-2025,2733,239,Beauty,1649.93,3,UPI,Pune
+869,15-02-2024,2099,533,Toys,6537.16,5,UPI,Chennai
+870,09-05-2025,3630,368,Beauty,698.46,4,Cash,Mumbai
+871,02-02-2025,3496,655,Clothing,6415.13,5,Credit Card,Jaipur
+872,27-01-2023,1176,191,Toys,1772.05,4,Debit Card,Bengaluru
+873,05-02-2025,3576,648,Electronics,1017.05,6,Credit Card,Ahmedabad
+874,27-06-2024,4315,356,Electronics,7810.09,3,Cash,Mumbai
+875,29-11-2024,2924,267,Books,1222.08,5,Credit Card,Delhi
+876,27-05-2024,4473,100,Beauty,887.51,4,Cash,Pune
+877,06-09-2023,1106,475,Books,2126.61,5,Credit Card,Lucknow
+878,19-06-2023,1497,810,Books,2742.86,1,Credit Card,Lucknow
+879,16-05-2024,2063,308,Home,1588.89,2,Debit Card,Hyderabad
+880,07-06-2025,2526,867,Electronics,5824.47,1,UPI,Kolkata
+881,27-03-2023,1187,330,Grocery,6241.39,4,Credit Card,Hyderabad
+882,15-01-2024,4658,143,Beauty,8815.52,2,Net Banking,Jaipur
+883,20-01-2023,4723,679,Electronics,2515.12,6,Net Banking,Mumbai
+884,20-07-2024,2168,795,Toys,692.16,1,Credit Card,Bengaluru
+885,21-09-2023,3679,586,Clothing,9592.46,6,Credit Card,Lucknow
+886,05-08-2024,2085,817,Books,1107.37,6,Cash,Delhi
+887,09-04-2023,3460,446,Home,7665.76,6,UPI,Ahmedabad
+888,18-03-2023,4873,364,Beauty,6799.34,4,Credit Card,Kolkata
+889,26-01-2023,3067,540,Electronics,3426.02,4,Cash,Chennai
+890,12-06-2025,1320,807,Beauty,5216.8,9,Debit Card,Chennai
+891,07-03-2025,4146,602,Books,4848.06,2,UPI,Delhi
+892,08-03-2025,2748,669,Home,2579.14,7,Net Banking,Ahmedabad
+893,22-08-2024,1450,490,Beauty,8440.6,7,UPI,Jaipur
+894,19-04-2024,2335,733,Books,7907.16,3,UPI,Ahmedabad
+895,31-10-2023,1232,971,Home,7524.69,4,Net Banking,Jaipur
+896,28-06-2025,4270,994,Beauty,5933.69,1,UPI,Jaipur
+897,06-05-2024,4647,526,Books,2269.96,1,Net Banking,Kolkata
+898,22-01-2024,4711,863,Grocery,3615.65,9,Net Banking,Chennai
+899,02-01-2023,3579,697,Clothing,9979.71,1,Net Banking,Delhi
+900,11-06-2023,2377,359,Toys,8790.04,4,Debit Card,Kolkata
+901,07-11-2023,4071,613,Home,835.86,8,Cash,Jaipur
+902,08-02-2025,3428,517,Clothing,3261.94,7,Net Banking,Hyderabad
+903,01-08-2024,4990,233,Electronics,615.59,8,Net Banking,Delhi
+904,28-11-2023,2386,435,Toys,4375.01,9,Net Banking,Jaipur
+905,02-10-2024,2573,836,Grocery,7994.83,3,Cash,Jaipur
+906,25-07-2023,1687,667,Clothing,5656.76,1,Debit Card,Pune
+907,16-01-2025,2316,103,Grocery,3356.59,1,Cash,Lucknow
+908,11-05-2025,3844,881,Toys,8072.75,9,Debit Card,Bengaluru
+909,06-12-2024,4902,695,Beauty,3407.26,9,UPI,Jaipur
+910,17-08-2023,1886,805,Home,1787.05,4,UPI,Bengaluru
+911,04-02-2024,1074,244,Clothing,2826.59,3,Debit Card,Jaipur
+912,07-06-2025,1834,706,Grocery,5276.11,5,Cash,Delhi
+913,12-11-2024,3068,798,Clothing,6406.15,2,Credit Card,Hyderabad
+914,16-10-2023,4411,799,Toys,6514.63,1,UPI,Jaipur
+915,26-01-2025,2932,596,Toys,9458.26,5,Cash,Ahmedabad
+916,25-02-2024,4453,441,Beauty,2435.04,5,Credit Card,Hyderabad
+917,18-07-2023,4801,379,Books,9832.44,3,Net Banking,Hyderabad
+918,20-03-2023,3882,466,Electronics,2452.08,8,Credit Card,Pune
+919,16-05-2025,4309,973,Grocery,6450.37,8,Net Banking,Delhi
+920,09-04-2025,1433,652,Clothing,1275.6,3,Net Banking,Hyderabad
+921,19-03-2023,3974,114,Toys,3974.1,2,Cash,Kolkata
+922,05-10-2023,4803,377,Electronics,3255.12,1,UPI,Kolkata
+923,30-08-2024,3117,468,Electronics,8118.45,6,Debit Card,Kolkata
+924,24-11-2023,4857,515,Toys,2825.52,8,Debit Card,Hyderabad
+925,30-03-2025,4880,758,Home,5740.59,3,UPI,Kolkata
+926,10-09-2024,1421,184,Home,6226.04,4,UPI,Pune
+927,25-01-2024,1699,152,Clothing,4187.35,8,Credit Card,Chennai
+928,16-11-2024,1771,837,Toys,5851.19,5,Credit Card,Bengaluru
+929,10-11-2024,3460,903,Home,6334.46,8,Cash,Mumbai
+930,20-08-2024,3906,707,Grocery,8672.87,8,Net Banking,Hyderabad
+931,03-01-2024,2916,677,Toys,7055.96,7,Cash,Ahmedabad
+932,26-07-2024,4224,688,Books,5447.71,5,UPI,Kolkata
+933,13-04-2024,4667,104,Books,4411.58,8,Cash,Jaipur
+934,10-09-2024,4446,307,Home,4607.17,3,Cash,Jaipur
+935,11-06-2023,1174,692,Electronics,4583.36,1,Debit Card,Hyderabad
+936,30-08-2025,2961,835,Home,6639.47,6,Net Banking,Jaipur
+937,10-07-2023,4975,563,Books,7408.24,2,UPI,Chennai
+938,20-04-2024,4451,853,Books,1036.97,7,Net Banking,Mumbai
+939,10-04-2025,1283,453,Clothing,4286.61,5,Debit Card,Lucknow
+940,27-09-2023,1948,244,Electronics,4517.34,6,Cash,Mumbai
+941,05-04-2023,1730,276,Electronics,6273.11,2,Cash,Bengaluru
+942,20-04-2023,4676,783,Toys,2517.35,1,Net Banking,Bengaluru
+943,03-08-2024,2574,785,Books,6415.78,9,UPI,Kolkata
+944,01-02-2024,3507,109,Home,4933.42,6,Cash,Delhi
+945,06-09-2025,4479,142,Toys,1360.13,1,Credit Card,Ahmedabad
+946,04-04-2024,1568,284,Toys,3355.57,6,Debit Card,Ahmedabad
+947,15-07-2024,3353,779,Grocery,7074.88,1,Credit Card,Lucknow
+948,11-01-2025,3657,525,Clothing,4520.1,9,Cash,Ahmedabad
+949,07-08-2025,2288,324,Beauty,8954.56,1,UPI,Kolkata
+950,25-02-2024,3402,526,Home,5298.41,3,Debit Card,Kolkata
+951,06-09-2024,4722,585,Electronics,3312,9,Cash,Delhi
+952,02-06-2024,4209,335,Home,9176.4,7,Credit Card,Ahmedabad
+953,06-07-2025,2470,893,Clothing,605.23,2,Net Banking,Lucknow
+954,26-04-2024,4393,855,Electronics,7630.33,4,Credit Card,Lucknow
+955,04-12-2023,1699,859,Beauty,5908.33,2,Debit Card,Chennai
+956,14-04-2024,3869,634,Grocery,3007.35,8,Credit Card,Delhi
+957,10-01-2025,1728,647,Toys,4162.66,9,Credit Card,Delhi
+958,16-07-2025,4897,787,Clothing,4516.46,7,Net Banking,Kolkata
+959,20-09-2023,3098,267,Beauty,774.88,5,Cash,Kolkata
+960,17-04-2024,1169,458,Clothing,8883.16,9,Cash,Kolkata
+961,24-01-2024,4698,273,Grocery,5787.31,5,Credit Card,Delhi
+962,13-09-2023,1996,959,Beauty,9360.16,9,Net Banking,Jaipur
+963,29-04-2025,3537,820,Clothing,2218.39,8,Net Banking,Jaipur
+964,16-05-2025,1075,326,Home,5238.28,6,Cash,Lucknow
+965,20-08-2025,3781,824,Beauty,8067.96,1,Debit Card,Jaipur
+966,04-03-2024,1413,615,Grocery,7365.01,9,Debit Card,Lucknow
+967,10-04-2023,1232,100,Toys,947.65,6,UPI,Bengaluru
+968,04-01-2024,1891,207,Electronics,7002.24,7,UPI,Jaipur
+969,16-07-2023,2627,271,Home,494.14,6,Cash,Kolkata
+970,20-06-2024,4807,794,Electronics,4861.72,2,Cash,Delhi
+971,17-12-2024,2605,418,Clothing,2856.99,1,Net Banking,Ahmedabad
+972,05-05-2024,1734,924,Books,8114.91,2,UPI,Pune
+973,07-02-2025,3221,236,Grocery,2086.31,8,Debit Card,Pune
+974,17-04-2024,2004,715,Toys,126.36,8,UPI,Kolkata
+975,08-06-2025,2934,691,Home,5707.11,5,Cash,Delhi
+976,16-01-2023,1897,259,Electronics,9854.66,5,Cash,Hyderabad
+977,14-07-2025,2673,968,Grocery,5862.7,4,Net Banking,Mumbai
+978,22-09-2023,2926,455,Books,7964.47,3,Cash,Hyderabad
+979,16-09-2023,4850,891,Books,7876.81,5,Debit Card,Lucknow
+980,31-03-2023,4393,847,Electronics,3233.6,9,Debit Card,Kolkata
+981,12-07-2024,2737,494,Electronics,8817.18,9,UPI,Kolkata
+982,25-12-2023,2694,332,Toys,3104.52,7,Debit Card,Ahmedabad
+983,25-09-2023,3452,354,Electronics,2747.29,1,Net Banking,Ahmedabad
+984,13-06-2024,1133,583,Toys,1205.67,2,Debit Card,Ahmedabad
+985,20-11-2023,4281,733,Grocery,6894.53,6,Net Banking,Hyderabad
+986,26-10-2023,1863,629,Clothing,5566.41,6,Net Banking,Delhi
+987,17-04-2025,3015,587,Grocery,6109.59,6,Cash,Bengaluru
+988,01-04-2024,4458,296,Books,6001.82,7,Credit Card,Pune
+989,16-02-2023,3868,187,Beauty,3308.89,4,Cash,Lucknow
+990,02-10-2024,3802,348,Grocery,6627.61,8,Cash,Chennai
+991,11-02-2024,3890,157,Home,3802.32,3,UPI,Mumbai
+992,01-10-2023,1805,933,Electronics,3089.86,4,Debit Card,Jaipur
+993,15-09-2025,1219,173,Clothing,9607.14,2,Credit Card,Hyderabad
+994,28-10-2024,4067,449,Clothing,6869.51,2,UPI,Delhi
+995,04-10-2024,4973,677,Toys,7617.82,9,UPI,Hyderabad
+996,14-07-2024,2278,781,Books,7158.52,1,Credit Card,Bengaluru
+997,26-06-2024,3916,871,Beauty,2535.76,5,UPI,Hyderabad
+998,24-04-2024,4660,792,Clothing,9684.88,1,Debit Card,Chennai
+999,28-07-2024,3645,135,Books,4496.07,9,Net Banking,Ahmedabad
+1000,25-01-2024,1139,156,Toys,684.85,8,UPI,Delhi
+1001,08-01-2025,3085,185,Electronics,2762.73,3,Cash,Ahmedabad
+1002,04-09-2024,2893,316,Clothing,1889.71,1,UPI,Ahmedabad
+1003,26-03-2025,1577,376,Home,6516.99,5,Debit Card,Hyderabad
+1004,27-02-2024,1842,725,Grocery,8190.75,6,Debit Card,Bengaluru
+1005,29-10-2023,3908,413,Beauty,3729.39,9,Debit Card,Hyderabad
+1006,07-05-2023,1274,825,Books,1794.04,7,Net Banking,Jaipur
+1007,25-10-2023,2105,740,Electronics,5231.78,6,Credit Card,Chennai
+1008,23-12-2024,3746,897,Grocery,6476.32,5,Debit Card,Hyderabad
+1009,04-06-2023,1525,749,Clothing,9071.76,1,Net Banking,Jaipur
+1010,15-01-2024,4100,366,Clothing,828.46,4,Debit Card,Delhi
+1011,09-09-2023,1335,265,Electronics,9471.49,1,Cash,Hyderabad
+1012,03-06-2024,2004,464,Electronics,5207.94,7,Debit Card,Delhi
+1013,24-07-2023,3586,177,Grocery,6295.66,1,Net Banking,Jaipur
+1014,14-07-2023,2439,621,Toys,8891.11,1,Debit Card,Bengaluru
+1015,06-12-2024,3361,745,Electronics,8985.77,2,Net Banking,Kolkata
+1016,23-02-2023,2085,994,Toys,391.75,2,Debit Card,Jaipur
+1017,25-07-2023,2241,874,Toys,1340.09,9,Credit Card,Bengaluru
+1018,02-09-2025,1939,910,Electronics,2952.14,2,UPI,Mumbai
+1019,05-01-2024,3603,242,Books,3005.34,3,Debit Card,Hyderabad
+1020,25-06-2023,3611,334,Clothing,1472.81,8,Debit Card,Jaipur
+1021,12-06-2024,4224,323,Home,8679.48,1,Debit Card,Hyderabad
+1022,09-04-2023,3054,394,Books,8621.02,5,Credit Card,Bengaluru
+1023,14-12-2024,1804,958,Home,8669.98,2,Net Banking,Jaipur
+1024,22-06-2024,1177,968,Electronics,2582.91,5,Net Banking,Mumbai
+1025,21-11-2023,4580,972,Home,2313.08,5,Credit Card,Hyderabad
+1026,30-04-2024,3830,210,Grocery,8889.25,7,Net Banking,Lucknow
+1027,23-06-2025,4546,450,Clothing,3267.29,4,Net Banking,Hyderabad
+1028,09-09-2025,1628,578,Home,5310.39,4,Credit Card,Kolkata
+1029,01-10-2025,2850,775,Grocery,8580.2,8,Cash,Ahmedabad
+1030,25-01-2024,2365,990,Books,5050.51,7,Cash,Ahmedabad
+1031,30-10-2024,2384,414,Toys,2910.35,9,Cash,Mumbai
+1032,05-11-2024,2863,602,Books,5258.44,9,Cash,Kolkata
+1033,10-01-2025,4957,889,Toys,5918.87,1,UPI,Lucknow
+1034,04-10-2024,1110,121,Home,6326.67,5,Cash,Lucknow
+1035,08-11-2023,3910,284,Home,6627.89,6,Debit Card,Chennai
+1036,24-04-2025,1076,958,Grocery,1098.59,2,Credit Card,Kolkata
+1037,09-07-2023,4813,585,Books,5096.15,1,Net Banking,Jaipur
+1038,29-03-2025,2398,248,Toys,4770.06,5,Credit Card,Lucknow
+1039,05-05-2024,4421,855,Beauty,4595.54,8,Cash,Chennai
+1040,10-12-2023,2144,984,Grocery,4905.12,9,Net Banking,Kolkata
+1041,25-10-2024,2840,150,Beauty,2071.59,3,Net Banking,Chennai
+1042,19-05-2024,1259,421,Toys,8351.67,5,Credit Card,Jaipur
+1043,22-02-2023,1786,224,Home,7002.89,5,Debit Card,Kolkata
+1044,17-02-2025,2889,278,Home,9950.81,4,UPI,Hyderabad
+1045,01-10-2023,1461,545,Toys,3904.58,2,Debit Card,Ahmedabad
+1046,13-03-2024,3734,803,Electronics,8710.82,6,Net Banking,Mumbai
+1047,24-01-2025,2908,757,Clothing,6950.72,1,Debit Card,Lucknow
+1048,05-05-2024,4696,256,Toys,7515.4,7,Cash,Hyderabad
+1049,27-08-2025,2127,773,Grocery,5088.73,1,Cash,Delhi
+1050,16-08-2023,4073,487,Home,6565.93,9,Debit Card,Lucknow
+1051,07-04-2025,3851,972,Home,2455.18,9,Cash,Delhi
+1052,30-11-2023,3599,303,Toys,3823.2,2,Cash,Delhi
+1053,03-12-2024,2339,456,Books,3785.39,6,Credit Card,Mumbai
+1054,01-10-2024,1397,829,Books,1851.78,2,Cash,Ahmedabad
+1055,26-09-2025,3435,254,Beauty,5578.83,9,Net Banking,Jaipur
+1056,09-03-2023,3220,995,Home,6130.62,7,UPI,Mumbai
+1057,22-04-2025,4188,198,Grocery,5992.14,6,UPI,Bengaluru
+1058,02-07-2024,2906,659,Beauty,9887.58,3,Debit Card,Delhi
+1059,20-12-2024,3031,560,Home,2214.42,2,Net Banking,Mumbai
+1060,20-09-2023,2836,474,Home,866.49,2,Net Banking,Bengaluru
+1061,31-03-2024,4115,607,Clothing,7490.77,4,Credit Card,Kolkata
+1062,23-08-2023,4543,530,Grocery,301.31,4,Credit Card,Ahmedabad
+1063,23-07-2025,1613,663,Clothing,8470.86,4,Debit Card,Hyderabad
+1064,20-09-2024,1087,919,Home,5018.31,4,Credit Card,Kolkata
+1065,12-09-2024,4481,547,Clothing,7680.07,1,Cash,Mumbai
+1066,02-04-2025,4835,797,Books,8017.78,4,Credit Card,Hyderabad
+1067,15-01-2023,1577,596,Toys,2082.34,8,Credit Card,Kolkata
+1068,12-01-2024,1255,897,Clothing,1123.45,1,Net Banking,Mumbai
+1069,28-05-2024,2647,131,Toys,3532.42,2,Cash,Ahmedabad
+1070,18-03-2023,1499,115,Toys,6319.41,9,Debit Card,Bengaluru
+1071,18-08-2023,1900,491,Toys,4979.57,3,UPI,Delhi
+1072,25-03-2023,2313,479,Home,9756.56,8,Credit Card,Kolkata
+1073,31-05-2025,3778,840,Clothing,3546.77,4,Credit Card,Delhi
+1074,10-06-2024,2946,189,Books,3355.97,4,Cash,Kolkata
+1075,16-03-2024,2885,446,Home,684.27,2,Net Banking,Kolkata
+1076,29-07-2023,1149,798,Home,5363.04,7,Credit Card,Ahmedabad
+1077,11-07-2024,4774,846,Books,3641.98,6,UPI,Ahmedabad
+1078,28-03-2024,2899,646,Beauty,2591.29,5,Credit Card,Bengaluru
+1079,08-08-2025,1298,315,Home,4332.53,1,Credit Card,Jaipur
+1080,05-04-2023,2506,897,Home,4619.26,3,UPI,Hyderabad
+1081,15-02-2023,2425,801,Electronics,5400.04,5,Net Banking,Jaipur
+1082,18-10-2024,4977,476,Electronics,1055.72,5,Credit Card,Lucknow
+1083,09-01-2024,2409,144,Home,8392.52,8,Credit Card,Mumbai
+1084,07-05-2024,2645,327,Electronics,2578.77,9,UPI,Kolkata
+1085,14-02-2023,4351,209,Books,5310.86,2,Cash,Kolkata
+1086,20-07-2023,2540,293,Home,9005.31,1,UPI,Jaipur
+1087,06-06-2024,4370,736,Toys,1906.42,6,Debit Card,Lucknow
+1088,09-03-2023,3147,602,Electronics,9809.45,4,Debit Card,Lucknow
+1089,17-07-2024,4267,483,Books,7196.85,6,UPI,Kolkata
+1090,30-09-2025,3105,926,Beauty,257.46,8,Net Banking,Pune
+1091,24-03-2023,4613,641,Electronics,6265.23,3,UPI,Chennai
+1092,29-05-2025,1546,222,Books,5324.48,9,Debit Card,Ahmedabad
+1093,15-04-2024,3186,790,Electronics,1511.51,8,Debit Card,Delhi
+1094,10-03-2023,2100,253,Books,8960.23,3,Net Banking,Delhi
+1095,30-03-2025,3898,618,Electronics,7107.74,4,Cash,Chennai
+1096,03-05-2025,1697,881,Grocery,7921.08,2,UPI,Bengaluru
+1097,11-10-2023,1459,993,Beauty,911.29,5,Net Banking,Lucknow
+1098,25-05-2023,1461,350,Grocery,1429.13,8,Cash,Jaipur
+1099,11-12-2023,1283,811,Clothing,2431.65,8,Cash,Pune
+1100,28-12-2023,3519,593,Books,4453.58,5,Net Banking,Ahmedabad
+1101,09-10-2023,4563,282,Books,2297.43,9,Net Banking,Lucknow
+1102,17-08-2025,1317,124,Clothing,8980.01,8,UPI,Pune
+1103,03-06-2024,4721,352,Electronics,4230.74,1,Credit Card,Kolkata
+1104,23-08-2025,1679,912,Books,2227.87,1,Net Banking,Delhi
+1105,07-10-2023,2116,152,Toys,257.8,2,Net Banking,Ahmedabad
+1106,06-03-2024,4930,853,Clothing,7655.33,5,Credit Card,Pune
+1107,28-02-2025,4365,148,Clothing,7374.33,7,UPI,Delhi
+1108,09-09-2024,4120,525,Beauty,5408.66,8,Credit Card,Bengaluru
+1109,10-12-2024,1926,346,Home,6232.12,6,Debit Card,Chennai
+1110,27-02-2025,2516,590,Electronics,2933.72,9,Cash,Kolkata
+1111,23-03-2024,1365,470,Home,3148.69,7,UPI,Bengaluru
+1112,16-11-2024,3131,413,Beauty,7028.1,4,Net Banking,Lucknow
+1113,22-02-2023,2822,840,Books,424.49,6,Credit Card,Delhi
+1114,22-04-2023,3981,252,Electronics,2776.42,9,Credit Card,Delhi
+1115,20-09-2024,1324,406,Electronics,2321.47,2,Credit Card,Chennai
+1116,08-03-2023,1543,255,Books,8252.31,9,Debit Card,Pune
+1117,02-10-2023,4767,258,Books,4613.86,9,Net Banking,Pune
+1118,02-07-2024,2876,582,Clothing,1933.99,2,Credit Card,Chennai
+1119,23-03-2024,1703,445,Home,1735.07,7,Net Banking,Kolkata
+1120,16-04-2023,2244,439,Books,6038.75,7,UPI,Lucknow
+1121,15-02-2025,2880,936,Beauty,5996.59,4,Debit Card,Lucknow
+1122,01-10-2025,3915,139,Electronics,9887.51,6,UPI,Jaipur
+1123,19-07-2023,3553,340,Books,6388.58,3,Cash,Ahmedabad
+1124,16-07-2023,1824,837,Books,9886.64,9,Net Banking,Bengaluru
+1125,26-09-2023,3025,267,Beauty,6197.1,8,Net Banking,Pune
+1126,27-10-2024,2608,616,Home,5161.49,4,Net Banking,Bengaluru
+1127,14-05-2025,1708,462,Beauty,9734.39,2,Debit Card,Pune
+1128,24-03-2023,4357,941,Grocery,404.01,9,UPI,Mumbai
+1129,29-04-2025,1491,871,Grocery,4466.11,8,Credit Card,Ahmedabad
+1130,04-03-2025,4170,345,Beauty,9451.5,7,Cash,Kolkata
+1131,16-07-2024,1529,995,Clothing,6925.51,8,Cash,Delhi
+1132,17-11-2023,1214,967,Grocery,7554.28,3,UPI,Pune
+1133,15-06-2024,1914,156,Clothing,1227.97,7,Debit Card,Lucknow
+1134,19-05-2024,4850,929,Electronics,2862.2,9,Debit Card,Ahmedabad
+1135,07-08-2025,4845,470,Electronics,2565.47,1,Credit Card,Ahmedabad
+1136,04-09-2023,1396,806,Grocery,1603.96,8,UPI,Bengaluru
+1137,02-09-2025,4474,302,Toys,6419.51,6,Cash,Mumbai
+1138,29-07-2024,4773,415,Beauty,6108.82,3,Net Banking,Hyderabad
+1139,03-07-2023,4844,188,Clothing,3073.31,7,Debit Card,Mumbai
+1140,16-06-2024,3779,813,Clothing,6329.1,5,Credit Card,Hyderabad
+1141,08-05-2025,3519,829,Clothing,6945.38,6,Cash,Kolkata
+1142,15-09-2025,3904,884,Grocery,6995.69,5,Cash,Pune
+1143,01-01-2023,1544,163,Toys,3245.9,4,Credit Card,Bengaluru
+1144,06-02-2024,2600,930,Home,1133.93,6,Cash,Bengaluru
+1145,25-08-2024,4909,263,Electronics,4126.25,3,Cash,Mumbai
+1146,10-02-2023,4253,524,Electronics,6902.98,4,Net Banking,Jaipur
+1147,20-02-2023,4698,847,Beauty,727.92,8,UPI,Pune
+1148,12-09-2023,3903,267,Toys,9029.89,9,UPI,Kolkata
+1149,05-12-2023,3431,966,Grocery,9432.65,1,Credit Card,Chennai
+1150,24-09-2024,3398,308,Electronics,2986.39,5,Debit Card,Pune
+1151,20-01-2024,3332,744,Books,2833.43,8,Cash,Lucknow
+1152,21-10-2023,3578,199,Home,5836.34,6,Cash,Bengaluru
+1153,14-06-2025,1438,229,Home,9307.58,4,Cash,Chennai
+1154,03-11-2024,2152,742,Books,5430.25,1,UPI,Kolkata
+1155,24-10-2024,3807,509,Toys,8254.02,8,Net Banking,Chennai
+1156,17-07-2023,4615,225,Books,931.59,9,Net Banking,Delhi
+1157,11-03-2023,2221,958,Home,560.88,7,Credit Card,Hyderabad
+1158,26-02-2023,2217,170,Toys,1994.77,9,Debit Card,Kolkata
+1159,19-07-2023,4965,554,Books,4070.63,3,Debit Card,Mumbai
+1160,19-11-2024,4495,327,Toys,986.19,6,Debit Card,Delhi
+1161,27-04-2025,4575,568,Grocery,7080.92,6,Debit Card,Pune
+1162,21-12-2023,1849,225,Home,8280.09,9,Cash,Mumbai
+1163,25-05-2024,4705,632,Books,9423.77,3,Net Banking,Chennai
+1164,12-05-2024,3953,229,Beauty,5262.96,7,Cash,Hyderabad
+1165,16-10-2023,4642,168,Beauty,6456.35,3,Debit Card,Delhi
+1166,15-02-2023,3640,235,Electronics,7067.96,7,Debit Card,Kolkata
+1167,16-03-2023,3882,513,Beauty,9110.75,8,Cash,Delhi
+1168,17-05-2024,3417,397,Grocery,648.24,6,UPI,Kolkata
+1169,02-01-2023,1801,303,Toys,1028.76,1,Debit Card,Delhi
+1170,15-02-2024,2542,574,Electronics,6247.38,2,Cash,Bengaluru
+1171,22-04-2024,2374,522,Books,5449.94,8,Debit Card,Hyderabad
+1172,29-08-2024,2263,943,Clothing,8336.59,6,Debit Card,Ahmedabad
+1173,06-09-2025,2506,239,Toys,8459.42,4,Debit Card,Jaipur
+1174,09-05-2024,1667,364,Electronics,3532.53,6,Net Banking,Delhi
+1175,19-02-2024,3498,633,Electronics,196.86,6,Cash,Lucknow
+1176,18-01-2025,3136,627,Clothing,714.98,2,Cash,Chennai
+1177,09-11-2024,1921,217,Electronics,8706.5,3,Net Banking,Mumbai
+1178,11-01-2023,3656,834,Books,1361.26,3,Cash,Pune
+1179,02-05-2024,1547,223,Grocery,987.78,6,Net Banking,Lucknow
+1180,25-02-2024,2899,230,Grocery,8618.83,4,Debit Card,Mumbai
+1181,27-04-2024,2877,418,Electronics,3163.35,5,Net Banking,Mumbai
+1182,03-12-2023,4386,267,Electronics,2691.46,9,Net Banking,Pune
+1183,11-04-2023,1442,997,Electronics,8879.06,4,Debit Card,Hyderabad
+1184,04-12-2023,1088,851,Clothing,5214.4,2,Cash,Bengaluru
+1185,04-01-2023,3439,898,Beauty,5452.82,5,Credit Card,Jaipur
+1186,31-08-2025,2591,970,Grocery,4719.15,2,Cash,Bengaluru
+1187,17-01-2024,1783,391,Home,9635.08,6,Cash,Hyderabad
+1188,21-09-2023,2088,903,Toys,1623.8,6,Credit Card,Hyderabad
+1189,10-11-2024,4434,681,Grocery,9222.33,4,Net Banking,Chennai
+1190,01-09-2024,1291,363,Grocery,2560.86,1,UPI,Hyderabad
+1191,20-08-2023,2887,801,Home,2886.6,3,Credit Card,Kolkata
+1192,23-05-2024,3073,680,Grocery,275.12,2,Net Banking,Pune
+1193,29-09-2025,3201,272,Clothing,9329.07,1,Debit Card,Hyderabad
+1194,23-02-2024,1165,708,Grocery,7601.05,9,UPI,Chennai
+1195,04-05-2024,3209,780,Books,6571.92,9,Credit Card,Delhi
+1196,12-01-2025,4675,203,Toys,6575.1,5,Cash,Kolkata
+1197,27-04-2024,3225,388,Clothing,6169.43,7,Net Banking,Jaipur
+1198,21-07-2024,4426,524,Books,3613.73,7,Net Banking,Chennai
+1199,02-06-2025,4950,248,Toys,6153.56,2,UPI,Jaipur
+1200,28-09-2023,4414,484,Books,8045.97,6,Credit Card,Bengaluru
+1201,21-03-2025,4133,235,Clothing,8942.18,8,Credit Card,Mumbai
+1202,21-02-2023,4387,480,Grocery,5116.74,1,Net Banking,Chennai
+1203,29-01-2025,2967,104,Home,1279.15,9,Net Banking,Pune
+1204,21-01-2024,4081,483,Beauty,4743.42,8,UPI,Jaipur
+1205,03-09-2024,4860,180,Electronics,8659.54,1,Net Banking,Hyderabad
+1206,08-06-2023,4565,885,Toys,9410.75,9,Net Banking,Bengaluru
+1207,13-02-2024,1736,930,Electronics,8045.88,3,Cash,Kolkata
+1208,06-03-2024,1455,703,Clothing,4232.69,8,Net Banking,Hyderabad
+1209,28-02-2023,3494,768,Grocery,474.89,6,Cash,Lucknow
+1210,27-08-2023,4118,104,Electronics,9776.5,2,Credit Card,Bengaluru
+1211,22-04-2025,2612,350,Electronics,6315.12,8,Credit Card,Delhi
+1212,12-03-2023,1565,320,Clothing,5111.35,1,Debit Card,Ahmedabad
+1213,06-11-2023,2602,235,Clothing,7806.91,5,Credit Card,Mumbai
+1214,15-06-2025,3537,454,Beauty,1092.98,8,UPI,Lucknow
+1215,24-05-2025,2166,602,Beauty,2614.1,4,Cash,Ahmedabad
+1216,26-07-2023,2125,700,Clothing,7409.58,7,UPI,Kolkata
+1217,31-05-2025,1847,729,Home,9516.7,5,Net Banking,Lucknow
+1218,03-06-2023,3584,899,Grocery,709.98,3,Credit Card,Jaipur
+1219,28-12-2024,3764,113,Home,2608.18,4,Cash,Hyderabad
+1220,10-01-2024,2334,986,Clothing,5202.75,1,UPI,Pune
+1221,28-02-2024,3813,519,Toys,8185.5,7,Net Banking,Kolkata
+1222,16-08-2025,1548,530,Books,8574.91,2,Credit Card,Delhi
+1223,26-02-2023,3829,193,Grocery,4714.85,2,Debit Card,Delhi
+1224,28-11-2024,3294,303,Electronics,6525.03,5,Net Banking,Ahmedabad
+1225,16-02-2024,1256,915,Books,6792.19,8,Debit Card,Kolkata
+1226,27-10-2024,2769,117,Books,8905.63,8,Debit Card,Ahmedabad
+1227,08-06-2025,2217,240,Home,814.02,6,Credit Card,Pune
+1228,12-07-2025,4281,973,Toys,6348.22,8,Net Banking,Delhi
+1229,29-06-2023,2332,374,Clothing,2441.77,9,Debit Card,Mumbai
+1230,25-11-2024,1242,704,Grocery,509.46,1,Cash,Ahmedabad
+1231,14-06-2025,1560,352,Clothing,5350.73,8,Net Banking,Chennai
+1232,08-03-2025,2918,320,Toys,2673.12,4,UPI,Mumbai
+1233,23-10-2023,2372,967,Grocery,5507.96,1,Cash,Chennai
+1234,20-12-2024,4718,189,Grocery,9316.23,1,Cash,Pune
+1235,21-10-2023,2821,799,Toys,9676.71,8,Credit Card,Lucknow
+1236,14-01-2023,2795,900,Toys,7550.52,6,Credit Card,Lucknow
+1237,12-07-2023,1977,312,Beauty,4968.72,7,Cash,Hyderabad
+1238,30-01-2023,4743,272,Beauty,9213.09,4,Debit Card,Delhi
+1239,04-07-2025,3712,582,Beauty,4372.84,2,Credit Card,Bengaluru
+1240,11-11-2023,2245,383,Home,8773.71,6,UPI,Chennai
+1241,03-03-2024,4178,104,Clothing,6389.47,3,UPI,Chennai
+1242,10-04-2024,4906,603,Home,5785.88,6,Net Banking,Kolkata
+1243,29-06-2025,4740,146,Beauty,353.64,8,Net Banking,Jaipur
+1244,22-02-2024,1766,647,Electronics,1541.72,1,Credit Card,Chennai
+1245,11-07-2025,3848,441,Grocery,6231.29,3,Debit Card,Mumbai
+1246,12-12-2024,1751,778,Clothing,2379.2,6,Cash,Delhi
+1247,04-08-2024,3617,125,Grocery,9356.63,9,UPI,Kolkata
+1248,11-08-2023,1913,177,Toys,8233.96,8,Cash,Mumbai
+1249,23-03-2023,2807,511,Electronics,4590.76,3,Net Banking,Lucknow
+1250,29-10-2024,4346,554,Toys,7417.96,7,UPI,Jaipur
+1251,11-03-2023,1509,184,Grocery,6357.41,5,Credit Card,Jaipur
+1252,03-05-2023,4625,228,Books,4471.97,4,Debit Card,Lucknow
+1253,11-03-2023,3429,188,Home,7261.89,4,Debit Card,Chennai
+1254,17-01-2024,2471,829,Books,7771.75,3,UPI,Delhi
+1255,09-01-2024,3731,711,Home,363.25,4,Net Banking,Chennai
+1256,14-07-2025,3617,145,Books,128.8,9,Debit Card,Pune
+1257,19-07-2024,4231,618,Home,6151.08,1,Net Banking,Jaipur
+1258,12-09-2023,3650,990,Home,5284.85,6,UPI,Pune
+1259,22-09-2023,3131,127,Beauty,2858.08,1,Credit Card,Ahmedabad
+1260,13-09-2023,1180,640,Toys,8531.38,6,Credit Card,Bengaluru
+1261,28-01-2024,1870,126,Toys,1483.09,8,Credit Card,Hyderabad
+1262,29-04-2024,3780,920,Grocery,418.3,5,Credit Card,Mumbai
+1263,22-10-2023,3876,421,Clothing,9786.6,7,Net Banking,Jaipur
+1264,14-05-2024,3421,560,Books,4310.1,3,Credit Card,Delhi
+1265,30-04-2024,4307,474,Electronics,1291.91,8,Net Banking,Delhi
+1266,23-02-2024,2637,525,Toys,5145.43,9,Credit Card,Delhi
+1267,15-01-2024,3343,282,Books,769.73,2,Cash,Jaipur
+1268,08-09-2024,3699,878,Home,8462.53,8,UPI,Chennai
+1269,20-06-2024,2641,716,Books,192.11,6,Cash,Chennai
+1270,06-08-2025,1229,647,Grocery,8445.65,8,Credit Card,Lucknow
+1271,26-09-2024,4979,236,Grocery,6218.16,7,Debit Card,Delhi
+1272,06-05-2023,4724,705,Books,6166.77,3,Cash,Ahmedabad
+1273,11-01-2023,1880,416,Toys,5851.19,2,Debit Card,Bengaluru
+1274,01-04-2025,2135,948,Electronics,8457.22,8,Debit Card,Bengaluru
+1275,11-05-2025,3309,991,Toys,2772.15,5,Credit Card,Jaipur
+1276,06-08-2025,2585,716,Home,4333.13,4,Credit Card,Chennai
+1277,20-11-2023,4830,662,Books,6160.66,8,Credit Card,Bengaluru
+1278,29-10-2023,4146,256,Toys,2809.72,1,Cash,Delhi
+1279,03-01-2024,3352,212,Grocery,4620.68,3,UPI,Mumbai
+1280,17-11-2023,2694,851,Toys,9965.18,8,Credit Card,Ahmedabad
+1281,29-01-2025,2165,358,Beauty,1242.82,1,UPI,Chennai
+1282,25-03-2023,3231,281,Books,4063.63,8,Cash,Ahmedabad
+1283,02-05-2025,1015,339,Grocery,936.68,6,Credit Card,Bengaluru
+1284,14-08-2025,4049,314,Books,8190.95,8,Credit Card,Lucknow
+1285,23-09-2023,4542,210,Toys,4114.45,5,Credit Card,Pune
+1286,20-08-2023,3976,190,Electronics,1578.1,2,UPI,Ahmedabad
+1287,03-01-2023,4514,485,Clothing,2103.18,4,UPI,Ahmedabad
+1288,10-04-2025,3728,345,Books,5703.32,1,Debit Card,Lucknow
+1289,14-10-2023,4437,408,Books,1919.68,4,Cash,Hyderabad
+1290,04-03-2025,3217,888,Home,8106.05,1,UPI,Pune
+1291,20-12-2024,4722,825,Toys,9540.34,2,UPI,Delhi
+1292,08-11-2024,3167,634,Toys,1932.96,1,Debit Card,Lucknow
+1293,16-06-2025,4217,279,Toys,4051.96,6,Net Banking,Kolkata
+1294,13-03-2025,1981,191,Toys,2279.1,3,Debit Card,Delhi
+1295,29-03-2025,4863,261,Toys,7396.76,5,UPI,Chennai
+1296,12-03-2023,1961,429,Clothing,2504.75,1,UPI,Bengaluru
+1297,09-12-2023,1684,145,Clothing,745.21,5,Cash,Mumbai
+1298,02-10-2023,4591,584,Books,272.22,1,Cash,Kolkata
+1299,13-09-2023,2061,528,Beauty,6422.26,4,Net Banking,Hyderabad
+1300,06-08-2023,1352,395,Toys,7599.71,7,Debit Card,Hyderabad
+1301,09-04-2023,2774,675,Home,851.46,2,Cash,Mumbai
+1302,26-09-2024,1381,829,Electronics,3150.76,6,Debit Card,Ahmedabad
+1303,11-01-2023,3388,427,Beauty,7612.06,7,UPI,Ahmedabad
+1304,21-09-2023,2413,862,Grocery,7965.51,6,Net Banking,Chennai
+1305,09-10-2024,4299,567,Clothing,6722.5,2,Net Banking,Ahmedabad
+1306,03-02-2023,2251,685,Electronics,6878.36,3,Debit Card,Ahmedabad
+1307,27-05-2023,1557,800,Clothing,4176,2,Credit Card,Bengaluru
+1308,19-05-2025,3683,265,Grocery,352.15,5,UPI,Lucknow
+1309,27-07-2025,4268,953,Home,6089.72,9,UPI,Mumbai
+1310,17-12-2023,4128,659,Clothing,4027.39,8,Cash,Bengaluru
+1311,10-02-2023,2435,763,Home,1250.61,2,Cash,Ahmedabad
+1312,07-08-2025,4865,769,Clothing,2268.9,1,Net Banking,Ahmedabad
+1313,09-06-2024,4394,195,Toys,6605.42,4,Net Banking,Lucknow
+1314,12-06-2024,3008,313,Beauty,4707.01,2,UPI,Delhi
+1315,10-04-2024,3965,687,Electronics,8947.42,9,Cash,Delhi
+1316,29-08-2025,4196,769,Beauty,128.38,4,Cash,Mumbai
+1317,01-02-2023,1290,460,Books,2749.93,9,UPI,Ahmedabad
+1318,26-11-2024,4456,673,Toys,995.59,2,Debit Card,Bengaluru
+1319,06-10-2024,4722,608,Books,7358.66,5,Net Banking,Jaipur
+1320,08-09-2023,4263,707,Home,1311.32,2,Net Banking,Lucknow
+1321,09-02-2025,2101,128,Home,7115.27,1,UPI,Pune
+1322,03-10-2023,3178,391,Clothing,2525.82,8,Credit Card,Hyderabad
+1323,09-04-2023,2397,950,Books,4673.63,9,Net Banking,Mumbai
+1324,27-09-2024,2536,253,Home,7379.03,9,Cash,Pune
+1325,09-04-2025,2894,704,Home,4250.18,3,Debit Card,Pune
+1326,19-03-2023,4660,858,Beauty,4644.71,7,UPI,Jaipur
+1327,24-06-2025,3211,198,Toys,8951.26,9,Credit Card,Hyderabad
+1328,26-05-2025,1426,717,Beauty,5013.57,7,Cash,Delhi
+1329,27-11-2023,2314,739,Clothing,4583.09,2,Credit Card,Hyderabad
+1330,29-11-2023,2061,618,Books,1711.7,5,UPI,Lucknow
+1331,19-02-2024,1023,352,Books,7944.01,5,Net Banking,Bengaluru
+1332,16-09-2024,1328,173,Home,4284.09,1,Cash,Ahmedabad
+1333,26-06-2024,4351,825,Clothing,6315.21,7,Net Banking,Bengaluru
+1334,10-09-2023,4591,963,Electronics,1948.14,7,Credit Card,Chennai
+1335,18-05-2023,1271,312,Grocery,1653.38,4,Debit Card,Kolkata
+1336,08-04-2023,3214,284,Toys,9176.62,7,Net Banking,Jaipur
+1337,29-04-2025,1445,543,Toys,3769.21,3,Credit Card,Delhi
+1338,09-01-2024,2430,622,Home,2105.45,9,Debit Card,Lucknow
+1339,14-08-2025,4274,816,Electronics,8756,2,Cash,Mumbai
+1340,10-12-2024,3312,818,Beauty,5119.16,2,Debit Card,Ahmedabad
+1341,04-03-2023,4254,277,Grocery,4623.21,4,Credit Card,Ahmedabad
+1342,04-04-2024,1427,475,Clothing,9989.78,6,Net Banking,Mumbai
+1343,13-07-2025,4381,588,Beauty,552.66,5,Cash,Mumbai
+1344,22-09-2023,1150,806,Clothing,9284.84,3,Credit Card,Lucknow
+1345,23-09-2025,2690,655,Home,1971,3,Debit Card,Kolkata
+1346,22-08-2024,4071,398,Toys,1761.59,8,Debit Card,Mumbai
+1347,02-12-2024,4204,401,Home,7484.65,8,Credit Card,Kolkata
+1348,06-06-2023,1179,691,Clothing,7917.61,4,Cash,Lucknow
+1349,21-05-2023,2275,167,Grocery,9644.17,8,Cash,Kolkata
+1350,31-12-2024,4475,288,Clothing,4230.85,5,Net Banking,Ahmedabad
+1351,13-08-2023,3767,360,Grocery,6582.35,8,Net Banking,Chennai
+1352,09-12-2024,3040,277,Electronics,1467.43,2,Credit Card,Jaipur
+1353,09-08-2023,1194,165,Books,1826.82,5,UPI,Lucknow
+1354,17-11-2024,4844,316,Clothing,978.49,1,Debit Card,Ahmedabad
+1355,03-03-2024,3260,646,Grocery,6487.11,2,Cash,Chennai
+1356,27-03-2023,1378,843,Beauty,7004.21,1,Net Banking,Bengaluru
+1357,12-05-2023,2362,989,Electronics,5925.31,1,Debit Card,Lucknow
+1358,03-09-2024,4873,363,Home,3661.39,3,Cash,Jaipur
+1359,02-04-2024,1868,179,Grocery,634.06,7,Cash,Kolkata
+1360,25-10-2024,4836,563,Grocery,6806.99,9,UPI,Kolkata
+1361,03-05-2023,4107,611,Beauty,1476.74,5,UPI,Jaipur
+1362,17-09-2023,3032,654,Clothing,5024.94,1,Net Banking,Bengaluru
+1363,06-03-2025,1145,928,Grocery,3477.74,5,Credit Card,Bengaluru
+1364,14-12-2023,3875,608,Books,4817.34,9,Cash,Chennai
+1365,12-03-2023,4586,313,Electronics,8095.63,5,Credit Card,Chennai
+1366,28-09-2025,2241,858,Home,9392.02,6,UPI,Lucknow
+1367,18-11-2023,2344,719,Grocery,1175.18,4,UPI,Delhi
+1368,15-07-2025,3338,139,Toys,9122.02,2,Cash,Jaipur
+1369,27-07-2023,4380,873,Grocery,9031.41,8,Credit Card,Mumbai
+1370,31-10-2024,3407,425,Books,4420.1,4,Debit Card,Mumbai
+1371,16-11-2023,1287,802,Books,7060.51,4,Cash,Jaipur
+1372,24-10-2023,3211,672,Home,9665.89,6,UPI,Kolkata
+1373,16-08-2024,4077,162,Clothing,9791.35,1,Cash,Kolkata
+1374,23-01-2023,2052,397,Beauty,6071.95,5,Net Banking,Bengaluru
+1375,19-03-2023,4951,582,Home,3359.24,2,Net Banking,Mumbai
+1376,24-05-2025,3041,701,Toys,760.04,6,Cash,Hyderabad
+1377,25-05-2025,2195,312,Grocery,9622.57,4,Net Banking,Delhi
+1378,11-10-2024,4151,978,Electronics,3306.3,1,Credit Card,Delhi
+1379,29-08-2024,2170,357,Grocery,9054.46,9,UPI,Ahmedabad
+1380,23-09-2023,2964,964,Home,1686.28,8,Debit Card,Hyderabad
+1381,03-01-2024,2219,237,Beauty,9204.75,3,UPI,Delhi
+1382,17-09-2023,4427,237,Toys,6511.54,8,Credit Card,Kolkata
+1383,11-05-2024,1095,476,Beauty,2213.66,3,Net Banking,Mumbai
+1384,25-05-2023,1222,142,Electronics,7495.18,2,Debit Card,Mumbai
+1385,30-05-2023,2463,574,Clothing,9550.78,1,UPI,Chennai
+1386,20-06-2025,2963,960,Books,9620.8,1,Cash,Jaipur
+1387,23-01-2023,3256,496,Toys,4683.08,8,Cash,Kolkata
+1388,13-08-2025,3051,653,Clothing,8908.17,6,Net Banking,Pune
+1389,23-04-2024,4775,272,Grocery,7810.4,7,UPI,Lucknow
+1390,25-08-2025,2775,997,Home,8496.15,3,Debit Card,Jaipur
+1391,02-08-2023,2932,450,Electronics,5284.45,2,Debit Card,Hyderabad
+1392,25-05-2023,4225,577,Books,9232.44,2,Cash,Jaipur
+1393,21-06-2025,3431,139,Beauty,1304.81,8,Cash,Kolkata
+1394,29-11-2024,1943,475,Clothing,8251.53,4,Credit Card,Hyderabad
+1395,23-05-2025,3560,882,Electronics,6059.18,5,UPI,Mumbai
+1396,05-01-2024,4565,683,Grocery,4970.63,6,Net Banking,Kolkata
+1397,18-01-2023,3194,242,Toys,685.82,6,Credit Card,Jaipur
+1398,05-01-2024,2493,790,Clothing,5388.25,7,Net Banking,Mumbai
+1399,13-03-2024,4203,163,Toys,1767.2,6,Net Banking,Pune
+1400,15-01-2023,3214,183,Electronics,6497.36,3,Cash,Pune
+1401,29-09-2024,2063,539,Electronics,1183.91,1,UPI,Chennai
+1402,02-04-2023,3800,692,Beauty,1535.67,2,UPI,Mumbai
+1403,27-10-2024,1541,140,Beauty,2601.08,9,UPI,Delhi
+1404,01-10-2023,1002,927,Clothing,5757.02,2,Net Banking,Ahmedabad
+1405,29-03-2023,1113,688,Electronics,2684.48,4,Credit Card,Mumbai
+1406,29-09-2024,3551,166,Books,3494.03,2,Debit Card,Lucknow
+1407,12-11-2024,3408,117,Clothing,9097.27,4,UPI,Pune
+1408,07-11-2023,4861,628,Grocery,4756.72,4,UPI,Mumbai
+1409,03-01-2023,1235,853,Clothing,245.2,9,Cash,Jaipur
+1410,19-03-2025,4035,579,Home,2977.95,4,Cash,Lucknow
+1411,20-02-2023,4178,512,Home,9403.63,9,Cash,Kolkata
+1412,02-05-2024,1490,109,Toys,686.28,6,UPI,Lucknow
+1413,10-03-2024,3829,974,Books,2866.38,9,Credit Card,Kolkata
+1414,11-11-2024,1318,170,Home,8744.42,4,Cash,Lucknow
+1415,15-10-2023,3068,291,Toys,9031.4,9,Credit Card,Hyderabad
+1416,01-01-2025,2030,644,Grocery,9688.25,2,Net Banking,Ahmedabad
+1417,05-06-2025,2881,370,Electronics,3211.98,3,Cash,Delhi
+1418,13-02-2024,1980,405,Home,3183.14,3,Cash,Delhi
+1419,17-04-2025,1258,176,Home,3706.25,9,Cash,Hyderabad
+1420,29-12-2023,3345,780,Beauty,4337.27,2,Debit Card,Mumbai
+1421,20-04-2024,3892,653,Books,8946.35,2,Debit Card,Chennai
+1422,27-03-2024,3025,217,Toys,4957.74,5,Net Banking,Kolkata
+1423,11-06-2025,1979,498,Beauty,8985.68,7,Credit Card,Bengaluru
+1424,13-09-2024,1139,492,Electronics,2870.87,8,Debit Card,Jaipur
+1425,27-09-2024,1169,858,Clothing,3108.39,3,Credit Card,Kolkata
+1426,28-07-2023,2420,138,Home,3111.38,3,Debit Card,Pune
+1427,26-10-2024,3540,528,Beauty,5289.03,7,Cash,Mumbai
+1428,26-04-2023,3864,841,Clothing,9641.38,4,Cash,Lucknow
+1429,29-10-2023,1892,199,Electronics,2789.06,2,Credit Card,Hyderabad
+1430,16-02-2023,3843,738,Electronics,2655.88,3,Net Banking,Hyderabad
+1431,23-03-2023,1387,335,Beauty,5873.37,8,UPI,Mumbai
+1432,13-03-2023,2960,665,Electronics,8973.51,5,Debit Card,Chennai
+1433,14-02-2023,2518,847,Home,2985.55,7,UPI,Chennai
+1434,26-07-2024,3926,217,Electronics,1415.15,8,UPI,Bengaluru
+1435,11-05-2025,3944,495,Clothing,3792.59,4,Net Banking,Chennai
+1436,06-01-2024,2217,509,Grocery,3764.55,5,Cash,Lucknow
+1437,17-01-2025,4207,929,Books,2506.8,5,Cash,Pune
+1438,27-09-2025,3038,619,Clothing,413.68,2,Debit Card,Jaipur
+1439,07-03-2024,2213,629,Beauty,3471.77,7,Debit Card,Kolkata
+1440,19-05-2025,4384,443,Toys,4283.48,7,UPI,Chennai
+1441,03-01-2023,1616,286,Clothing,6024.98,3,UPI,Ahmedabad
+1442,15-02-2024,4986,244,Toys,1054.63,2,Net Banking,Chennai
+1443,16-05-2025,4724,898,Books,8283.72,1,UPI,Kolkata
+1444,14-12-2024,3546,533,Beauty,4561.13,4,UPI,Lucknow
+1445,16-03-2025,3594,207,Books,4972.17,3,UPI,Ahmedabad
+1446,21-11-2024,4424,259,Grocery,3376.47,1,UPI,Jaipur
+1447,29-01-2024,2457,781,Electronics,8548.65,5,Debit Card,Kolkata
+1448,23-04-2025,4050,163,Clothing,342.71,8,Cash,Hyderabad
+1449,31-07-2023,2704,140,Home,3583.95,6,UPI,Hyderabad
+1450,08-11-2024,3860,215,Beauty,793.63,2,UPI,Pune
+1451,31-05-2023,3489,715,Home,2921.76,9,Cash,Lucknow
+1452,04-05-2023,4090,394,Beauty,9767.27,8,Credit Card,Ahmedabad
+1453,30-10-2023,4492,954,Electronics,9573.81,5,Cash,Kolkata
+1454,18-05-2024,4098,905,Home,9076.91,5,Credit Card,Jaipur
+1455,26-02-2024,3523,861,Toys,8415.57,5,Net Banking,Pune
+1456,20-11-2023,2095,571,Home,6548.48,8,UPI,Jaipur
+1457,12-10-2024,2661,471,Toys,8002.73,5,Credit Card,Chennai
+1458,29-01-2024,2202,979,Beauty,2221.58,1,Cash,Bengaluru
+1459,11-01-2023,4248,759,Clothing,4515.91,6,Credit Card,Kolkata
+1460,10-06-2025,3313,850,Clothing,1205.99,6,Net Banking,Pune
+1461,18-06-2025,4571,848,Toys,8361.55,3,UPI,Mumbai
+1462,11-11-2024,2983,809,Books,7892.22,8,Credit Card,Mumbai
+1463,18-10-2024,3620,175,Electronics,3554.74,7,Net Banking,Lucknow
+1464,22-04-2024,1071,299,Home,952.44,4,Debit Card,Pune
+1465,08-10-2024,3194,399,Home,5607.82,6,Debit Card,Chennai
+1466,12-11-2024,4365,950,Beauty,5036.21,7,Cash,Lucknow
+1467,23-07-2023,2719,671,Grocery,9270.31,1,Credit Card,Pune
+1468,06-09-2023,1375,171,Home,4797.95,3,UPI,Ahmedabad
+1469,19-07-2023,3058,643,Beauty,3378.85,6,UPI,Hyderabad
+1470,26-09-2024,4311,573,Beauty,8985.24,3,UPI,Ahmedabad
+1471,06-01-2024,2995,219,Toys,2356.5,4,Cash,Jaipur
+1472,09-12-2023,1986,653,Toys,4320.74,8,Cash,Delhi
+1473,10-03-2023,4561,176,Toys,8444.71,6,UPI,Lucknow
+1474,31-07-2025,4260,679,Books,991.41,4,Credit Card,Pune
+1475,01-03-2023,2668,704,Home,2436.76,2,Net Banking,Delhi
+1476,28-08-2024,1851,131,Clothing,2502.12,5,Debit Card,Jaipur
+1477,07-10-2024,3535,215,Electronics,2460.01,7,Cash,Hyderabad
+1478,27-05-2024,3185,622,Beauty,7134.17,9,Net Banking,Chennai
+1479,23-01-2023,3007,743,Grocery,5845.25,6,Credit Card,Mumbai
+1480,25-06-2023,4064,815,Toys,2656.58,4,Cash,Delhi
+1481,23-05-2025,3518,694,Beauty,5074.7,4,UPI,Bengaluru
+1482,28-09-2024,4819,431,Books,344.03,8,Cash,Lucknow
+1483,07-01-2025,1259,236,Clothing,2918.99,8,UPI,Jaipur
+1484,09-10-2024,3650,173,Electronics,8165.04,8,Credit Card,Ahmedabad
+1485,22-12-2024,1337,200,Electronics,2134.11,2,Credit Card,Mumbai
+1486,30-09-2023,1090,813,Electronics,1305.42,8,Credit Card,Hyderabad
+1487,17-04-2023,3523,288,Electronics,8557.4,7,Credit Card,Mumbai
+1488,13-02-2024,1372,587,Books,4484.65,6,UPI,Kolkata
+1489,26-08-2025,4230,492,Beauty,5165.63,4,Debit Card,Ahmedabad
+1490,28-12-2023,1028,291,Books,8462.34,6,Credit Card,Mumbai
+1491,23-07-2025,4487,602,Home,5773.47,4,UPI,Lucknow
+1492,01-01-2023,4264,784,Clothing,5256.68,9,Debit Card,Lucknow
+1493,06-01-2025,3897,982,Electronics,622.29,5,Net Banking,Chennai
+1494,27-04-2023,3709,558,Beauty,2842.39,2,Debit Card,Chennai
+1495,25-06-2025,2084,502,Electronics,9472.02,2,Debit Card,Hyderabad
+1496,26-02-2024,1051,418,Beauty,1025.54,4,Cash,Delhi
+1497,10-01-2023,4040,577,Beauty,7728.18,4,Net Banking,Lucknow
+1498,06-04-2025,3276,101,Beauty,9905.85,8,Credit Card,Chennai
+1499,13-09-2023,2752,282,Clothing,449.1,9,Credit Card,Ahmedabad
+1500,13-06-2025,3186,483,Electronics,5610.23,6,Debit Card,Pune
+1501,12-04-2024,1974,755,Grocery,240.55,7,Cash,Jaipur
+1502,30-04-2025,3180,206,Books,3008.33,1,UPI,Jaipur
+1503,29-01-2024,1259,219,Beauty,6941.82,3,Net Banking,Mumbai
+1504,12-06-2025,2826,480,Beauty,5603.89,9,Credit Card,Jaipur
+1505,24-10-2024,3262,207,Electronics,9600.62,1,Cash,Mumbai
+1506,07-02-2023,1656,918,Beauty,1247.87,7,Net Banking,Jaipur
+1507,12-05-2024,3970,524,Toys,7027.44,1,UPI,Lucknow
+1508,10-10-2023,2106,968,Books,5180.87,1,UPI,Mumbai
+1509,11-06-2025,3240,804,Toys,1830.76,3,Credit Card,Delhi
+1510,15-02-2024,3631,346,Electronics,8118.86,5,Debit Card,Bengaluru
+1511,18-05-2024,1787,797,Toys,734.93,2,Credit Card,Jaipur
+1512,01-07-2025,3427,374,Clothing,8875.59,8,Net Banking,Mumbai
+1513,21-05-2024,4365,693,Toys,2963.45,1,Net Banking,Lucknow
+1514,15-08-2023,1104,391,Clothing,138.01,5,Net Banking,Kolkata
+1515,19-05-2025,4102,802,Beauty,1995.67,5,Credit Card,Delhi
+1516,03-09-2024,3790,701,Grocery,6202.62,5,Net Banking,Lucknow
+1517,04-11-2023,2062,813,Books,7745.03,8,Cash,Ahmedabad
+1518,03-05-2023,2105,726,Electronics,1148.23,3,Credit Card,Kolkata
+1519,27-09-2025,1682,617,Beauty,1027.29,2,Net Banking,Hyderabad
+1520,02-09-2024,3474,846,Toys,781.86,7,UPI,Hyderabad
+1521,28-11-2023,4977,616,Books,7148.76,1,Credit Card,Bengaluru
+1522,25-03-2025,2710,469,Grocery,351.41,1,Debit Card,Lucknow
+1523,05-07-2025,2548,480,Books,3287.81,6,Credit Card,Chennai
+1524,09-09-2024,1777,767,Clothing,1767.18,7,Debit Card,Lucknow
+1525,08-07-2024,2748,586,Home,4478.7,5,UPI,Mumbai
+1526,04-10-2023,3520,619,Grocery,3655.39,8,Credit Card,Ahmedabad
+1527,05-04-2024,3005,905,Beauty,5721.39,9,UPI,Kolkata
+1528,18-02-2023,4657,292,Grocery,9244.98,3,Net Banking,Kolkata
+1529,01-11-2024,1780,289,Toys,180.26,1,Credit Card,Jaipur
+1530,10-08-2023,3004,151,Books,4447.11,8,UPI,Pune
+1531,01-12-2023,1853,446,Grocery,2211,5,Cash,Lucknow
+1532,12-09-2025,3900,318,Books,5513.41,3,Debit Card,Lucknow
+1533,26-07-2025,2679,516,Home,2630.33,2,UPI,Ahmedabad
+1534,17-08-2023,3659,515,Grocery,7869.17,4,Debit Card,Lucknow
+1535,18-03-2024,3187,354,Toys,9878.87,1,Net Banking,Lucknow
+1536,16-04-2023,3761,289,Clothing,4178.42,1,UPI,Chennai
+1537,30-10-2024,1758,522,Books,6987.68,6,Cash,Delhi
+1538,18-05-2024,2979,625,Books,2447.42,9,Credit Card,Jaipur
+1539,29-08-2024,1152,362,Home,4170.51,7,Cash,Ahmedabad
+1540,06-04-2024,3600,545,Clothing,2712.81,5,Credit Card,Hyderabad
+1541,11-11-2024,4724,940,Toys,7285.46,4,Debit Card,Pune
+1542,19-01-2023,3637,839,Home,6105.99,1,Debit Card,Chennai
+1543,05-02-2023,3551,142,Beauty,2166.63,9,Net Banking,Kolkata
+1544,06-04-2024,3629,718,Toys,9309.28,9,Credit Card,Kolkata
+1545,20-01-2024,2615,447,Home,7800.94,7,Debit Card,Hyderabad
+1546,24-09-2024,1134,129,Books,5157.35,8,UPI,Pune
+1547,22-01-2023,1425,315,Clothing,7397.24,8,Net Banking,Jaipur
+1548,27-06-2024,3998,429,Beauty,1494.21,8,Debit Card,Ahmedabad
+1549,30-05-2024,4107,122,Toys,4299.73,3,Net Banking,Pune
+1550,12-08-2025,2156,831,Beauty,4643.61,2,UPI,Pune
+1551,18-05-2024,2627,279,Beauty,1415.56,2,Credit Card,Chennai
+1552,04-03-2024,2564,947,Beauty,2372.05,3,Cash,Delhi
+1553,29-03-2025,4609,338,Books,4045.58,2,UPI,Lucknow
+1554,07-04-2024,4992,315,Beauty,5131.5,5,Debit Card,Bengaluru
+1555,15-12-2024,1678,819,Beauty,2825.41,9,Credit Card,Mumbai
+1556,10-09-2025,2982,886,Books,1682.11,6,UPI,Pune
+1557,11-07-2024,4242,784,Beauty,2544.63,4,UPI,Bengaluru
+1558,09-08-2025,4961,775,Toys,9069.79,7,Net Banking,Bengaluru
+1559,05-01-2023,4284,698,Clothing,1174.23,8,Net Banking,Bengaluru
+1560,17-10-2024,4375,581,Beauty,1852.59,8,Debit Card,Delhi
+1561,21-02-2024,2672,830,Electronics,643.2,8,Net Banking,Ahmedabad
+1562,23-03-2025,4241,482,Home,8943.41,2,Credit Card,Kolkata
+1563,22-01-2025,4717,358,Beauty,2713.03,1,UPI,Lucknow
+1564,18-03-2024,2030,753,Home,7189.51,8,Credit Card,Mumbai
+1565,30-11-2023,1482,776,Home,6682.95,9,UPI,Kolkata
+1566,13-12-2024,4641,922,Grocery,2260.01,1,Net Banking,Delhi
+1567,02-10-2024,2399,467,Home,6949.2,5,Credit Card,Bengaluru
+1568,29-11-2023,4134,510,Clothing,4972.24,9,Cash,Pune
+1569,24-09-2024,2327,195,Clothing,2960.23,4,Net Banking,Delhi
+1570,11-08-2025,1853,365,Books,9654.4,6,UPI,Jaipur
+1571,04-09-2023,2204,891,Beauty,3412.48,8,Credit Card,Lucknow
+1572,23-01-2024,3328,748,Toys,8171.02,3,Cash,Pune
+1573,21-01-2025,2464,539,Toys,3930.75,1,UPI,Delhi
+1574,30-03-2023,1527,403,Toys,7224.14,7,Debit Card,Delhi
+1575,22-07-2024,2156,938,Home,9460.47,5,Net Banking,Mumbai
+1576,29-06-2025,4042,685,Beauty,6025.79,3,Cash,Mumbai
+1577,29-04-2023,4880,348,Books,4269.89,9,UPI,Ahmedabad
+1578,09-07-2023,2105,939,Home,9218.55,2,Cash,Lucknow
+1579,07-03-2025,1457,618,Beauty,2992.4,9,UPI,Hyderabad
+1580,18-10-2023,4838,971,Clothing,2842.12,6,UPI,Pune
+1581,07-08-2025,4832,244,Grocery,9579.49,8,UPI,Ahmedabad
+1582,20-07-2023,3161,819,Electronics,2135.33,8,Debit Card,Ahmedabad
+1583,08-12-2024,1722,635,Home,5305.56,1,Net Banking,Ahmedabad
+1584,20-05-2025,4951,648,Clothing,740.5,1,Net Banking,Hyderabad
+1585,21-04-2025,4989,769,Beauty,5578.27,5,UPI,Chennai
+1586,18-03-2025,3563,765,Beauty,6942.39,4,Cash,Ahmedabad
+1587,09-10-2024,3142,631,Books,2272.24,3,Credit Card,Bengaluru
+1588,14-09-2023,4143,743,Grocery,1299.79,3,Cash,Kolkata
+1589,22-08-2023,2445,516,Electronics,5835.56,7,Net Banking,Lucknow
+1590,13-11-2023,2893,106,Electronics,8196.14,3,Net Banking,Delhi
+1591,25-10-2024,1241,863,Books,9050.22,7,Net Banking,Chennai
+1592,07-06-2023,1774,582,Books,1256.76,8,Credit Card,Mumbai
+1593,03-09-2023,4442,166,Home,4751.52,3,Debit Card,Mumbai
+1594,08-05-2025,2327,304,Clothing,8389.85,4,Credit Card,Delhi
+1595,14-07-2023,4611,326,Toys,8612.71,7,Credit Card,Hyderabad
+1596,21-07-2025,4716,346,Clothing,3904.66,9,Cash,Hyderabad
+1597,14-09-2025,2181,934,Electronics,514.37,8,UPI,Mumbai
+1598,31-01-2023,3422,461,Clothing,5567.85,2,Net Banking,Bengaluru
+1599,23-01-2024,1947,681,Home,1813.77,5,UPI,Mumbai
+1600,02-04-2024,1703,806,Beauty,5862.36,3,UPI,Hyderabad
+1601,18-09-2025,4556,966,Beauty,3410.78,2,UPI,Ahmedabad
+1602,13-04-2024,4239,655,Beauty,1358.19,4,UPI,Bengaluru
+1603,07-09-2023,1747,526,Books,4667.99,5,Net Banking,Delhi
+1604,04-06-2025,2735,189,Clothing,3292.3,5,Cash,Mumbai
+1605,28-10-2024,2217,538,Clothing,3238.89,6,Net Banking,Chennai
+1606,09-02-2024,1208,458,Clothing,6664.53,9,Credit Card,Delhi
+1607,24-11-2024,4610,244,Books,5845.44,2,Net Banking,Chennai
+1608,09-09-2025,3582,106,Grocery,4130.7,2,Credit Card,Kolkata
+1609,18-08-2024,4071,531,Toys,745.08,1,Debit Card,Mumbai
+1610,20-03-2025,3538,626,Home,3993.54,2,Net Banking,Pune
+1611,11-01-2023,2776,165,Books,3314.98,3,Credit Card,Jaipur
+1612,19-02-2025,3774,824,Books,3091,2,Net Banking,Pune
+1613,06-11-2023,4362,982,Grocery,6384.19,3,Net Banking,Ahmedabad
+1614,17-08-2023,1310,927,Beauty,4772.31,8,UPI,Jaipur
+1615,27-08-2023,3894,541,Clothing,3646.82,9,Debit Card,Delhi
+1616,28-01-2023,4157,414,Electronics,7865.16,3,Cash,Chennai
+1617,10-02-2023,1205,555,Beauty,3404.67,1,Net Banking,Jaipur
+1618,26-05-2025,1903,261,Toys,7142.57,7,Cash,Mumbai
+1619,12-12-2024,2422,442,Home,8539.69,7,UPI,Kolkata
+1620,20-05-2024,4869,234,Beauty,2116.88,9,Credit Card,Ahmedabad
+1621,01-09-2025,3604,360,Clothing,3323.59,7,Debit Card,Chennai
+1622,15-06-2024,3687,467,Books,780.38,5,Credit Card,Delhi
+1623,06-04-2025,2557,951,Grocery,1108.11,6,UPI,Ahmedabad
+1624,23-06-2025,3141,884,Clothing,9779.05,1,Cash,Mumbai
+1625,19-12-2024,2778,452,Books,6021.72,8,UPI,Delhi
+1626,03-12-2024,4733,592,Beauty,6849.63,6,Debit Card,Jaipur
+1627,19-02-2024,2110,729,Home,4850.22,4,Net Banking,Delhi
+1628,25-06-2023,4744,408,Books,6026.99,1,UPI,Jaipur
+1629,18-01-2024,4434,456,Clothing,9959.66,9,Net Banking,Jaipur
+1630,24-09-2024,4675,157,Clothing,1896.96,1,Debit Card,Bengaluru
+1631,26-03-2024,2174,863,Home,3171.44,4,Net Banking,Chennai
+1632,30-10-2023,2961,115,Home,1161.61,5,Credit Card,Chennai
+1633,03-06-2025,3475,840,Clothing,5187.73,6,UPI,Chennai
+1634,13-07-2025,4344,680,Home,2653.73,4,UPI,Delhi
+1635,20-09-2024,4001,804,Clothing,4310.58,1,Net Banking,Jaipur
+1636,12-10-2023,3055,314,Toys,7795.21,4,Cash,Kolkata
+1637,01-09-2024,2229,419,Toys,2019.31,9,Net Banking,Kolkata
+1638,08-08-2023,1294,770,Beauty,1767.45,4,Debit Card,Lucknow
+1639,01-10-2023,3825,212,Clothing,6820.09,6,Net Banking,Ahmedabad
+1640,11-02-2023,4904,353,Toys,4541.92,7,Debit Card,Hyderabad
+1641,14-09-2024,1198,949,Home,5655.22,1,UPI,Kolkata
+1642,11-10-2024,1376,458,Electronics,3079.59,6,Debit Card,Mumbai
+1643,10-01-2023,4481,299,Books,3388.93,1,UPI,Kolkata
+1644,02-08-2025,3384,431,Home,838.41,9,UPI,Jaipur
+1645,23-10-2024,4805,406,Electronics,6068.82,3,Debit Card,Hyderabad
+1646,26-11-2024,2449,319,Electronics,7846.03,2,UPI,Chennai
+1647,05-03-2025,4200,345,Electronics,8246.92,2,Debit Card,Delhi
+1648,30-04-2023,2960,639,Clothing,8862.77,5,Debit Card,Kolkata
+1649,11-02-2025,4949,170,Clothing,4321.1,4,Net Banking,Kolkata
+1650,06-12-2024,4049,966,Grocery,2102.24,3,Cash,Hyderabad
+1651,09-04-2025,3895,148,Clothing,2326.75,2,UPI,Bengaluru
+1652,05-10-2023,4645,432,Grocery,7467.11,1,Debit Card,Kolkata
+1653,24-06-2024,2741,730,Grocery,1963.22,3,Cash,Lucknow
+1654,13-02-2024,1849,815,Beauty,885.04,9,Cash,Bengaluru
+1655,11-02-2024,2702,884,Beauty,8545.2,2,UPI,Hyderabad
+1656,17-01-2023,1347,716,Beauty,1927.12,2,Debit Card,Jaipur
+1657,04-08-2025,2885,888,Electronics,8825.7,2,Cash,Mumbai
+1658,26-12-2023,3412,264,Grocery,4551.37,6,Net Banking,Bengaluru
+1659,11-07-2024,2877,536,Grocery,1271.48,9,UPI,Hyderabad
+1660,11-04-2024,3387,617,Clothing,524.08,5,UPI,Chennai
+1661,27-08-2024,2277,390,Clothing,9347.65,7,Net Banking,Jaipur
+1662,11-01-2025,1861,642,Books,4151.79,4,Net Banking,Chennai
+1663,12-03-2023,2183,842,Beauty,7305.25,6,Cash,Jaipur
+1664,11-01-2025,2915,486,Clothing,6206.73,1,Cash,Delhi
+1665,04-12-2024,3182,710,Beauty,2141.09,2,Debit Card,Mumbai
+1666,02-02-2023,3772,642,Books,7475.71,5,Cash,Lucknow
+1667,05-05-2024,4761,874,Books,6267.05,7,Net Banking,Kolkata
+1668,26-08-2025,1011,312,Home,4521.02,4,UPI,Pune
+1669,22-12-2023,4007,459,Books,3980.68,3,Credit Card,Jaipur
+1670,17-01-2025,1780,273,Clothing,6822.16,8,UPI,Pune
+1671,11-08-2025,3828,460,Electronics,1752.32,6,Credit Card,Mumbai
+1672,06-06-2025,2547,422,Grocery,9000.14,1,Cash,Hyderabad
+1673,13-05-2023,2460,306,Grocery,3584.9,6,UPI,Kolkata
+1674,07-06-2023,3536,703,Electronics,872.04,8,Credit Card,Jaipur
+1675,24-10-2024,2518,149,Books,146.65,5,Cash,Chennai
+1676,06-12-2024,1062,510,Home,2355.35,1,Net Banking,Jaipur
+1677,30-07-2023,3240,213,Clothing,1860.54,3,UPI,Jaipur
+1678,25-04-2023,2616,482,Grocery,8425.16,1,Debit Card,Mumbai
+1679,08-05-2025,2629,814,Grocery,8684.06,5,Debit Card,Hyderabad
+1680,27-05-2025,3000,740,Grocery,3476.71,3,UPI,Mumbai
+1681,27-03-2025,2964,237,Clothing,718.86,6,Debit Card,Hyderabad
+1682,19-01-2023,2906,406,Books,1319.26,1,Net Banking,Pune
+1683,26-01-2025,4500,117,Beauty,2603.86,6,Net Banking,Lucknow
+1684,09-04-2024,3532,898,Beauty,5637.33,4,Credit Card,Hyderabad
+1685,16-08-2025,2192,545,Grocery,3717.64,6,Debit Card,Bengaluru
+1686,15-01-2024,2273,656,Electronics,4895.56,4,Debit Card,Jaipur
+1687,19-12-2024,2272,770,Electronics,9060.62,3,UPI,Ahmedabad
+1688,30-10-2024,1441,971,Beauty,8986.25,5,Credit Card,Hyderabad
+1689,19-07-2024,2347,846,Electronics,3087.27,9,UPI,Mumbai
+1690,11-05-2024,3433,709,Beauty,6690.67,1,Credit Card,Jaipur
+1691,06-05-2025,4998,913,Toys,7519.72,5,Debit Card,Pune
+1692,08-05-2025,1959,465,Clothing,5458.11,4,UPI,Lucknow
+1693,13-02-2025,4228,699,Books,2814.2,9,UPI,Lucknow
+1694,10-03-2025,4526,685,Grocery,9638.81,2,UPI,Lucknow
+1695,22-05-2023,4950,680,Toys,676.79,7,Credit Card,Ahmedabad
+1696,18-10-2024,3938,517,Toys,381.12,6,Credit Card,Lucknow
+1697,06-12-2023,3843,407,Home,4979.92,8,Cash,Jaipur
+1698,21-10-2024,4259,579,Grocery,8678.9,7,Cash,Ahmedabad
+1699,03-10-2023,1116,363,Clothing,7367.75,4,Credit Card,Jaipur
+1700,31-05-2024,1213,149,Beauty,9853.15,1,Net Banking,Lucknow
+1701,19-10-2024,4588,852,Beauty,7825.53,9,Net Banking,Mumbai
+1702,04-03-2023,4151,830,Beauty,5580.31,9,Cash,Hyderabad
+1703,25-07-2024,4711,877,Grocery,5216.82,1,Debit Card,Lucknow
+1704,04-09-2023,2036,397,Electronics,6597.28,5,Cash,Jaipur
+1705,27-07-2025,3022,416,Grocery,4543.69,9,Net Banking,Ahmedabad
+1706,17-02-2024,1319,392,Beauty,2465.99,7,Net Banking,Kolkata
+1707,17-09-2024,4916,680,Clothing,8278.99,1,Credit Card,Hyderabad
+1708,19-02-2024,2857,147,Grocery,312.98,4,Net Banking,Ahmedabad
+1709,28-11-2023,4257,969,Home,8531.92,4,Cash,Ahmedabad
+1710,22-06-2023,3236,210,Grocery,4567.83,3,Debit Card,Jaipur
+1711,13-07-2024,4929,714,Clothing,1346.32,8,Cash,Bengaluru
+1712,16-12-2023,1658,235,Grocery,6559.91,1,Net Banking,Ahmedabad
+1713,17-08-2023,3632,734,Home,9949.01,1,Credit Card,Ahmedabad
+1714,27-04-2025,1752,901,Home,2574.02,3,Debit Card,Chennai
+1715,05-04-2024,2349,715,Grocery,7310.39,9,Credit Card,Pune
+1716,20-05-2025,4248,228,Clothing,3209.78,7,Credit Card,Bengaluru
+1717,04-05-2023,4660,767,Grocery,9846.65,6,UPI,Mumbai
+1718,26-05-2025,1659,536,Clothing,1591.04,3,Debit Card,Pune
+1719,29-04-2023,3583,640,Beauty,511.71,2,Net Banking,Chennai
+1720,02-07-2024,4057,320,Electronics,4417.37,6,Credit Card,Hyderabad
+1721,06-10-2023,4726,844,Electronics,2947.51,5,Cash,Kolkata
+1722,14-03-2025,3606,950,Beauty,4846.75,8,Net Banking,Ahmedabad
+1723,24-01-2025,1286,139,Home,7015.05,4,Debit Card,Mumbai
+1724,20-11-2024,2020,895,Clothing,9539.97,5,Debit Card,Pune
+1725,08-12-2024,3120,520,Grocery,4546.04,3,Cash,Mumbai
+1726,11-04-2023,3762,837,Toys,1946.13,1,Net Banking,Bengaluru
+1727,10-10-2024,1372,788,Toys,3887.56,4,Cash,Bengaluru
+1728,29-07-2024,4605,772,Home,9766,6,Net Banking,Kolkata
+1729,05-11-2023,2738,121,Home,8025.9,3,Debit Card,Bengaluru
+1730,09-05-2023,2481,502,Toys,9592.03,7,Debit Card,Hyderabad
+1731,30-04-2023,3521,523,Beauty,1421.65,5,Debit Card,Mumbai
+1732,04-11-2023,4699,690,Toys,3397.21,2,Credit Card,Ahmedabad
+1733,26-06-2024,2095,100,Electronics,1735.33,2,Net Banking,Lucknow
+1734,18-10-2023,1923,846,Books,9132.85,6,Debit Card,Lucknow
+1735,29-04-2024,1158,949,Grocery,1490.2,2,UPI,Bengaluru
+1736,16-09-2025,2553,462,Home,7399.91,1,UPI,Lucknow
+1737,25-04-2024,2999,870,Grocery,490.13,2,UPI,Chennai
+1738,21-03-2023,3812,529,Home,9055.33,5,Credit Card,Pune
+1739,10-05-2023,4753,467,Beauty,1907.16,5,Cash,Lucknow
+1740,09-03-2024,4189,302,Toys,2219.4,5,UPI,Hyderabad
+1741,22-07-2023,3463,449,Home,1613.43,3,UPI,Lucknow
+1742,23-12-2024,4687,129,Books,6221.81,1,UPI,Mumbai
+1743,07-06-2024,1129,687,Toys,6792.09,7,Cash,Chennai
+1744,27-12-2023,3608,607,Books,8605.17,6,Credit Card,Lucknow
+1745,10-04-2025,1433,380,Toys,7002.51,6,Cash,Delhi
+1746,22-10-2024,1113,610,Home,4035.2,8,Credit Card,Chennai
+1747,21-06-2025,2152,430,Clothing,9333.97,7,UPI,Chennai
+1748,12-04-2025,1454,145,Home,5455.76,1,Debit Card,Kolkata
+1749,24-10-2024,3905,928,Toys,3138.51,3,Cash,Jaipur
+1750,13-08-2024,3814,419,Clothing,3648.41,7,Cash,Kolkata
+1751,04-01-2023,4996,176,Electronics,1968.07,4,Net Banking,Hyderabad
+1752,05-02-2024,4853,838,Electronics,8199.12,8,Credit Card,Kolkata
+1753,02-12-2024,4044,457,Clothing,5347,6,Credit Card,Hyderabad
+1754,18-05-2023,3771,675,Home,4783.89,8,Cash,Chennai
+1755,16-05-2023,2005,684,Home,528.41,2,UPI,Chennai
+1756,16-03-2024,3784,273,Home,8949.52,4,UPI,Hyderabad
+1757,18-09-2023,4308,234,Electronics,2511.87,5,Debit Card,Lucknow
+1758,08-07-2024,1131,835,Grocery,4684.14,5,Cash,Pune
+1759,06-11-2024,3544,628,Home,8482.29,6,Net Banking,Delhi
+1760,14-12-2023,2157,103,Electronics,2890.3,1,Cash,Delhi
+1761,13-08-2023,4110,117,Toys,6291.85,8,Credit Card,Jaipur
+1762,22-12-2023,3102,870,Toys,9819.78,6,UPI,Jaipur
+1763,18-07-2024,4859,620,Grocery,7068.48,7,Credit Card,Hyderabad
+1764,23-02-2023,3880,654,Beauty,9004.55,4,Net Banking,Delhi
+1765,07-07-2024,1299,750,Toys,3108.12,7,Cash,Mumbai
+1766,25-11-2024,3320,964,Home,2518.95,8,Cash,Chennai
+1767,17-08-2024,3060,560,Clothing,3496.71,8,Cash,Ahmedabad
+1768,02-03-2024,4465,830,Grocery,4904.96,3,Cash,Chennai
+1769,06-03-2023,2107,112,Grocery,5867.72,4,Debit Card,Chennai
+1770,01-05-2025,4188,136,Home,7356.89,6,Cash,Mumbai
+1771,28-08-2024,1773,683,Grocery,4909.5,6,UPI,Lucknow
+1772,16-09-2023,2882,424,Electronics,6348.29,8,Credit Card,Mumbai
+1773,17-04-2023,4166,360,Grocery,9687.66,3,Net Banking,Chennai
+1774,07-09-2023,2466,147,Toys,6644.94,1,Net Banking,Chennai
+1775,26-07-2025,2850,697,Toys,8982.42,2,Debit Card,Hyderabad
+1776,01-08-2025,1712,721,Grocery,5763.18,7,Net Banking,Lucknow
+1777,22-03-2023,2081,352,Electronics,2124.25,7,Debit Card,Chennai
+1778,19-05-2025,2531,955,Toys,7249.38,2,UPI,Pune
+1779,02-07-2023,3645,600,Grocery,7538.62,9,Net Banking,Ahmedabad
+1780,25-06-2023,3019,718,Books,6739.77,9,Cash,Mumbai
+1781,05-03-2024,2838,401,Toys,6492.67,5,UPI,Hyderabad
+1782,22-03-2023,2247,215,Electronics,4573.45,7,Net Banking,Mumbai
+1783,26-12-2023,2619,368,Toys,7611.02,1,Cash,Delhi
+1784,29-07-2024,2760,851,Grocery,3313.54,1,Debit Card,Hyderabad
+1785,27-07-2023,3560,614,Grocery,1639.88,7,Credit Card,Bengaluru
+1786,11-07-2025,3043,278,Books,4553.26,9,Cash,Ahmedabad
+1787,12-01-2024,1360,279,Toys,7253.54,2,Cash,Hyderabad
+1788,27-08-2023,1800,323,Clothing,7365.18,4,Credit Card,Lucknow
+1789,24-04-2023,2477,667,Beauty,5374.65,2,Cash,Ahmedabad
+1790,30-07-2024,2669,681,Clothing,1536.77,4,Cash,Delhi
+1791,28-08-2023,2924,492,Home,8759.29,1,UPI,Ahmedabad
+1792,02-08-2023,4738,880,Electronics,1453.58,2,Credit Card,Lucknow
+1793,22-08-2023,4624,590,Clothing,9073.64,8,Cash,Hyderabad
+1794,13-01-2024,2012,225,Home,916.65,9,Net Banking,Kolkata
+1795,02-08-2023,4489,864,Clothing,2926.57,8,Net Banking,Hyderabad
+1796,24-03-2025,2938,385,Toys,6653.93,7,Credit Card,Mumbai
+1797,17-03-2023,2575,486,Clothing,3240.77,1,Net Banking,Mumbai
+1798,15-08-2023,2100,439,Home,5244.84,1,UPI,Kolkata
+1799,16-07-2024,3551,369,Books,9961.33,4,Credit Card,Delhi
+1800,17-04-2025,1351,787,Clothing,5449.1,7,UPI,Hyderabad
+1801,07-09-2024,4054,370,Toys,4959.96,9,Cash,Bengaluru
+1802,08-04-2024,4828,755,Beauty,7899.68,3,Credit Card,Kolkata
+1803,30-06-2023,1035,426,Electronics,1902,7,Debit Card,Ahmedabad
+1804,15-08-2023,2523,748,Books,4310.39,8,Net Banking,Chennai
+1805,22-01-2025,2923,114,Home,4449.51,1,UPI,Jaipur
+1806,23-06-2025,2514,970,Clothing,2917.98,1,Credit Card,Hyderabad
+1807,20-02-2023,3391,117,Home,8871.17,4,Debit Card,Chennai
+1808,08-10-2024,2657,552,Books,5307.29,5,Credit Card,Hyderabad
+1809,11-05-2024,3887,960,Electronics,7467.84,9,Credit Card,Jaipur
+1810,21-03-2025,1761,956,Clothing,5958.97,5,UPI,Hyderabad
+1811,12-07-2023,4863,438,Grocery,7827.78,4,Debit Card,Kolkata
+1812,08-01-2025,3608,353,Books,4528.03,6,Debit Card,Hyderabad
+1813,09-02-2024,3840,920,Electronics,4320.18,6,UPI,Chennai
+1814,07-11-2024,1910,141,Beauty,559.3,2,Credit Card,Kolkata
+1815,25-10-2023,1830,204,Clothing,2556.02,4,UPI,Kolkata
+1816,07-05-2025,2934,559,Clothing,109.8,8,Net Banking,Jaipur
+1817,25-05-2024,1388,704,Toys,6562.55,8,Credit Card,Jaipur
+1818,23-02-2025,3020,488,Electronics,2482.36,1,UPI,Bengaluru
+1819,15-01-2023,2631,842,Toys,2751.24,9,Credit Card,Pune
+1820,30-05-2025,3871,357,Home,5429.34,3,Cash,Kolkata
+1821,22-05-2024,4843,365,Home,6791.03,5,Net Banking,Kolkata
+1822,13-01-2024,3940,782,Clothing,7764.92,8,Cash,Bengaluru
+1823,03-04-2024,2105,543,Home,733.44,3,Debit Card,Chennai
+1824,24-03-2023,2497,572,Books,8780.39,7,Net Banking,Hyderabad
+1825,22-04-2024,2178,430,Grocery,8176.3,5,Net Banking,Kolkata
+1826,17-08-2025,2926,292,Books,5173.21,3,UPI,Hyderabad
+1827,16-05-2024,3602,199,Electronics,9918.75,4,Credit Card,Lucknow
+1828,19-09-2024,4773,228,Electronics,6766.19,6,Credit Card,Bengaluru
+1829,13-03-2023,1445,886,Grocery,8052.17,1,Net Banking,Ahmedabad
+1830,07-03-2024,2291,356,Beauty,958.6,8,Net Banking,Delhi
+1831,11-01-2025,4716,848,Books,2924.21,7,Net Banking,Ahmedabad
+1832,03-12-2024,4468,343,Electronics,8928.04,1,Net Banking,Jaipur
+1833,03-04-2024,3507,242,Beauty,9389.8,7,Credit Card,Chennai
+1834,05-01-2023,4553,518,Toys,1673.83,1,Debit Card,Pune
+1835,08-02-2024,3512,459,Beauty,768.4,8,Debit Card,Chennai
+1836,03-04-2023,4554,107,Beauty,3754.12,2,Credit Card,Delhi
+1837,17-07-2024,4113,130,Beauty,1089.94,7,Credit Card,Jaipur
+1838,06-08-2024,3774,872,Grocery,4318.36,6,Debit Card,Mumbai
+1839,19-03-2025,2180,392,Electronics,3879.44,7,Cash,Chennai
+1840,12-06-2023,4708,241,Beauty,9087.54,2,Cash,Mumbai
+1841,23-04-2024,3191,494,Books,2789.56,9,Credit Card,Kolkata
+1842,17-08-2023,3809,640,Beauty,2931.1,4,Credit Card,Hyderabad
+1843,22-10-2024,1461,293,Grocery,6047.89,2,Credit Card,Bengaluru
+1844,14-02-2025,1082,808,Home,6250.85,9,Credit Card,Chennai
+1845,17-03-2025,4164,480,Electronics,9807.9,1,Net Banking,Mumbai
+1846,31-07-2023,4391,190,Electronics,6178.1,9,Debit Card,Bengaluru
+1847,26-05-2025,4294,493,Grocery,8268.94,5,Cash,Mumbai
+1848,12-05-2025,4035,393,Electronics,5941.28,6,Net Banking,Bengaluru
+1849,24-09-2023,2700,158,Books,6940.4,3,Cash,Jaipur
+1850,02-02-2023,2825,896,Clothing,615.85,8,UPI,Bengaluru
+1851,15-02-2025,1242,729,Toys,3173.7,9,Credit Card,Lucknow
+1852,05-07-2025,3073,762,Clothing,2400.41,1,Net Banking,Hyderabad
+1853,13-05-2025,3106,302,Toys,8354.39,4,Cash,Jaipur
+1854,04-08-2024,4142,207,Grocery,9551.01,8,Net Banking,Ahmedabad
+1855,04-02-2025,3431,835,Grocery,9045.86,7,Debit Card,Kolkata
+1856,19-11-2023,3304,178,Clothing,1991.41,3,Net Banking,Jaipur
+1857,08-04-2025,2927,929,Home,6211.91,3,Net Banking,Hyderabad
+1858,12-02-2024,2435,712,Home,7714.63,7,Net Banking,Delhi
+1859,02-03-2024,1274,908,Home,9024.24,3,UPI,Chennai
+1860,07-07-2025,1928,382,Electronics,6631.7,7,UPI,Chennai
+1861,25-04-2023,3288,277,Grocery,880.97,1,UPI,Mumbai
+1862,15-03-2024,1384,212,Grocery,2137.18,4,Cash,Lucknow
+1863,13-02-2025,4346,607,Grocery,1718.52,1,Debit Card,Lucknow
+1864,10-06-2024,1720,390,Books,9574.54,6,Credit Card,Delhi
+1865,25-09-2023,3053,207,Toys,3028.33,5,Credit Card,Kolkata
+1866,08-03-2025,4806,676,Books,6680.25,7,Net Banking,Pune
+1867,27-02-2025,1244,868,Toys,5531.71,2,Debit Card,Delhi
+1868,23-03-2024,4867,714,Grocery,5053.23,1,Debit Card,Mumbai
+1869,15-02-2023,3125,856,Clothing,4970.42,9,Credit Card,Delhi
+1870,15-08-2023,4813,301,Toys,8647.64,3,Debit Card,Pune
+1871,13-07-2024,4228,124,Home,151.66,4,Net Banking,Lucknow
+1872,27-04-2025,2061,340,Books,2277.17,4,Net Banking,Jaipur
+1873,07-10-2024,1541,144,Clothing,6327.86,8,Credit Card,Delhi
+1874,11-11-2023,2725,912,Books,9524.92,2,Cash,Chennai
+1875,01-09-2025,1036,137,Home,3232.5,1,UPI,Bengaluru
+1876,16-05-2025,2580,781,Home,1474.03,8,Net Banking,Delhi
+1877,17-01-2024,2563,158,Clothing,8621.84,4,Credit Card,Chennai
+1878,21-08-2023,1754,625,Toys,6975.62,5,Cash,Hyderabad
+1879,17-08-2025,1197,236,Clothing,6546.76,9,Credit Card,Pune
+1880,19-03-2024,1370,899,Home,5468.96,1,Credit Card,Hyderabad
+1881,25-03-2023,1398,863,Books,9946.58,1,UPI,Jaipur
+1882,01-07-2024,3479,669,Toys,223.38,9,Net Banking,Jaipur
+1883,22-01-2023,2636,105,Home,3806.17,2,UPI,Ahmedabad
+1884,21-08-2025,2701,951,Electronics,6315.11,6,Credit Card,Chennai
+1885,08-07-2023,3854,867,Toys,5471.4,9,Debit Card,Pune
+1886,14-06-2024,3447,578,Beauty,1109.16,3,Cash,Lucknow
+1887,24-04-2024,2195,720,Clothing,1018.43,6,Credit Card,Hyderabad
+1888,13-09-2025,4635,745,Clothing,1333.75,3,Cash,Delhi
+1889,11-02-2023,4821,777,Beauty,6408.02,5,Net Banking,Hyderabad
+1890,26-03-2024,2258,965,Toys,7043.84,4,UPI,Chennai
+1891,22-06-2023,1728,908,Grocery,3884.47,3,Credit Card,Jaipur
+1892,07-10-2023,1194,485,Grocery,9250.47,5,Cash,Hyderabad
+1893,30-04-2025,1815,717,Beauty,6490.85,1,UPI,Lucknow
+1894,02-11-2024,3016,589,Beauty,4044.54,6,Net Banking,Hyderabad
+1895,28-06-2025,2934,249,Beauty,4111.05,6,Cash,Ahmedabad
+1896,19-10-2023,3396,242,Electronics,9056.4,8,Net Banking,Mumbai
+1897,01-04-2024,1580,450,Grocery,9148.93,6,Credit Card,Bengaluru
+1898,11-06-2025,2876,833,Grocery,5882.03,9,UPI,Hyderabad
+1899,25-09-2025,4892,693,Beauty,9866.37,2,Net Banking,Hyderabad
+1900,18-08-2025,4468,359,Home,3531.2,3,UPI,Kolkata
+1901,29-06-2024,1866,838,Beauty,9525.95,3,UPI,Mumbai
+1902,15-02-2025,4798,148,Electronics,8149.02,9,Net Banking,Delhi
+1903,09-04-2023,1658,828,Grocery,6363,7,UPI,Chennai
+1904,13-06-2025,3503,286,Grocery,6036.9,3,Credit Card,Mumbai
+1905,28-02-2024,4523,619,Clothing,1587.86,5,UPI,Chennai
+1906,14-05-2025,2848,814,Books,1819.42,1,Credit Card,Kolkata
+1907,13-07-2024,2867,660,Books,5759.29,4,Debit Card,Lucknow
+1908,08-11-2023,2878,144,Clothing,4201.48,5,Net Banking,Ahmedabad
+1909,04-12-2024,3824,805,Home,3305.75,2,UPI,Delhi
+1910,13-01-2025,4972,454,Grocery,5955.73,7,Cash,Pune
+1911,05-03-2024,1002,252,Clothing,7813.27,7,Credit Card,Hyderabad
+1912,21-12-2023,4897,976,Home,4270.54,9,Debit Card,Ahmedabad
+1913,04-02-2024,2385,174,Beauty,4658.17,7,Debit Card,Kolkata
+1914,21-09-2024,2501,367,Grocery,1643.7,3,Cash,Mumbai
+1915,17-06-2025,3089,854,Home,5881,9,UPI,Pune
+1916,26-01-2025,4414,648,Beauty,5429.2,4,UPI,Mumbai
+1917,25-06-2024,4673,667,Toys,9992.85,3,Debit Card,Ahmedabad
+1918,24-01-2023,4857,756,Electronics,2330.53,6,Cash,Kolkata
+1919,25-11-2023,3337,462,Books,4543.87,9,UPI,Delhi
+1920,07-04-2025,2375,381,Electronics,821.83,6,Cash,Delhi
+1921,16-11-2023,4436,454,Grocery,2020.72,5,UPI,Jaipur
+1922,20-08-2024,1480,629,Toys,6573.21,6,Net Banking,Jaipur
+1923,02-07-2023,3077,929,Electronics,8851.84,5,Credit Card,Bengaluru
+1924,04-07-2023,3217,125,Home,3940.48,5,Cash,Lucknow
+1925,26-11-2024,1983,358,Books,7969.54,7,Credit Card,Kolkata
+1926,03-02-2025,2633,412,Beauty,9088.01,8,Debit Card,Delhi
+1927,16-03-2023,1367,483,Grocery,2477.75,7,Cash,Hyderabad
+1928,21-08-2025,2963,947,Clothing,1436.62,7,Debit Card,Ahmedabad
+1929,23-08-2023,3257,635,Books,5232.26,6,Credit Card,Ahmedabad
+1930,19-06-2023,4423,138,Toys,7178.96,5,Credit Card,Kolkata
+1931,28-03-2024,2028,549,Electronics,4967.86,3,UPI,Hyderabad
+1932,18-09-2024,1041,252,Toys,2652.68,2,Debit Card,Pune
+1933,16-12-2024,3247,743,Toys,9391.09,8,Net Banking,Delhi
+1934,23-03-2023,1655,985,Books,1783.71,5,Cash,Hyderabad
+1935,12-07-2025,2226,450,Electronics,3054.52,8,UPI,Lucknow
+1936,26-06-2025,4604,289,Home,183.82,7,Cash,Delhi
+1937,12-03-2023,3189,689,Books,4507.68,8,Credit Card,Ahmedabad
+1938,18-06-2024,2583,881,Home,8956.82,4,Net Banking,Delhi
+1939,04-05-2025,2191,470,Electronics,3681.39,4,UPI,Bengaluru
+1940,22-04-2024,2797,782,Toys,9655.61,7,Net Banking,Ahmedabad
+1941,14-08-2025,4144,693,Clothing,6716.34,1,Debit Card,Delhi
+1942,17-06-2025,4015,450,Grocery,5091.24,6,UPI,Chennai
+1943,20-08-2025,4970,296,Grocery,8859.63,5,Debit Card,Bengaluru
+1944,10-09-2024,4762,973,Home,8252.43,9,Net Banking,Lucknow
+1945,11-09-2024,3413,988,Beauty,8517.1,8,Credit Card,Lucknow
+1946,03-08-2024,4417,281,Beauty,391,3,Debit Card,Chennai
+1947,23-06-2024,3107,500,Grocery,8821.19,8,Net Banking,Bengaluru
+1948,21-02-2023,2748,743,Grocery,3945.15,2,Credit Card,Kolkata
+1949,25-09-2023,3919,922,Toys,2172.2,6,Credit Card,Hyderabad
+1950,10-01-2024,3789,804,Beauty,3900.14,8,Credit Card,Delhi
+1951,25-06-2024,3492,858,Toys,673.88,9,Cash,Bengaluru
+1952,06-07-2023,3280,652,Grocery,8046.25,3,Debit Card,Hyderabad
+1953,15-01-2023,4431,450,Beauty,5731.13,8,UPI,Lucknow
+1954,12-10-2023,1938,462,Clothing,1466.4,2,UPI,Chennai
+1955,20-09-2024,3537,874,Toys,7904.41,4,Cash,Pune
+1956,20-10-2024,2958,470,Home,5826.69,5,Credit Card,Jaipur
+1957,14-04-2023,4611,736,Electronics,7964.52,2,Net Banking,Kolkata
+1958,29-06-2023,2398,820,Electronics,7209.01,4,Net Banking,Mumbai
+1959,26-07-2023,4209,668,Electronics,5827.55,1,Cash,Hyderabad
+1960,25-06-2024,2537,294,Electronics,5823.16,4,UPI,Hyderabad
+1961,29-08-2024,3250,215,Home,4072.55,2,Credit Card,Delhi
+1962,23-11-2023,3500,795,Grocery,4224.71,1,Debit Card,Mumbai
+1963,11-01-2023,1137,514,Books,5640.47,5,Credit Card,Lucknow
+1964,22-02-2023,2681,750,Clothing,4863.36,2,UPI,Bengaluru
+1965,29-03-2023,2510,817,Electronics,5580.2,7,Debit Card,Hyderabad
+1966,31-08-2025,4351,286,Grocery,9766.39,1,Net Banking,Chennai
+1967,18-04-2025,2434,420,Clothing,6003.52,5,Credit Card,Chennai
+1968,22-03-2023,2518,138,Books,6790.69,9,Cash,Bengaluru
+1969,09-04-2025,1740,811,Clothing,4466.11,9,Cash,Hyderabad
+1970,19-03-2023,4345,274,Books,3618.55,7,Cash,Ahmedabad
+1971,08-03-2023,3940,636,Clothing,9587.54,9,Net Banking,Chennai
+1972,14-07-2025,3879,599,Beauty,3905.26,3,Credit Card,Mumbai
+1973,09-02-2024,3227,318,Clothing,7814.82,2,Credit Card,Hyderabad
+1974,24-03-2024,3319,177,Electronics,6979.61,1,Debit Card,Bengaluru
+1975,06-06-2025,3236,567,Toys,6056.19,1,Debit Card,Bengaluru
+1976,11-07-2023,2526,585,Clothing,9275.46,7,UPI,Delhi
+1977,27-01-2024,1400,836,Electronics,3390.62,7,UPI,Chennai
+1978,15-03-2025,1878,573,Grocery,1621.4,2,Debit Card,Delhi
+1979,30-06-2024,3436,108,Grocery,1725.21,2,Credit Card,Kolkata
+1980,05-11-2023,2111,308,Clothing,3963.55,4,Credit Card,Mumbai
+1981,16-08-2025,3071,447,Clothing,6521.94,9,Cash,Hyderabad
+1982,19-06-2023,2449,351,Grocery,1882.19,8,Credit Card,Hyderabad
+1983,13-06-2023,3143,401,Clothing,6847.59,6,Net Banking,Mumbai
+1984,05-08-2023,1147,635,Books,2042.01,7,Cash,Ahmedabad
+1985,20-07-2025,2027,725,Electronics,8748.14,2,Debit Card,Kolkata
+1986,03-08-2023,1907,101,Grocery,5816.62,3,Net Banking,Lucknow
+1987,04-08-2025,4352,751,Clothing,6818.28,7,Debit Card,Ahmedabad
+1988,15-01-2025,1129,318,Home,3971.14,4,Credit Card,Chennai
+1989,07-01-2025,2549,343,Clothing,5456.33,1,UPI,Chennai
+1990,31-08-2024,4837,294,Electronics,5231.39,9,UPI,Kolkata
+1991,27-03-2023,2292,790,Grocery,7236.39,3,UPI,Hyderabad
+1992,07-05-2023,2629,690,Home,2491.6,4,UPI,Ahmedabad
+1993,29-01-2025,3675,324,Clothing,9569.82,2,Credit Card,Chennai
+1994,17-04-2023,3819,990,Grocery,2857.41,4,Debit Card,Bengaluru
+1995,14-03-2025,4001,517,Grocery,2113.48,2,Cash,Delhi
+1996,02-02-2023,2306,808,Home,603.52,3,Net Banking,Lucknow
+1997,04-05-2024,2826,481,Electronics,8465.2,4,UPI,Jaipur
+1998,21-04-2024,3140,414,Electronics,3348.95,2,Credit Card,Jaipur
+1999,27-04-2023,2886,766,Books,9185.09,2,Net Banking,Jaipur
+2000,24-04-2025,2926,809,Books,3025.33,3,UPI,Delhi
