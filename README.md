@@ -11,27 +11,39 @@ The dataset contains information such as order dates, customers, products, payme
 ## 🛠️ What I Did
 
 Cleaned & Prepared Data
+
 Worked with DD-MM-YYYY formatted dates using STR_TO_DATE.
+
 Extracted year and month for time-based analysis.
+
 Performed SQL Analysis
+
 Calculated monthly revenues.
+
 Found top 15 revenue-generating months.
+
 Counted order volumes by month.
+
 Combined revenue + order volume in one summary.
+
 Analyzed the last 12 months from the most recent order.
+
 Compiled Results
+
 Exported all results into analysis_results.xlsx.
+
 Each sheet shows top 15–20 rows for clear insights.
 
-![image alt]()           ![image alt]()
+
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query2.png)
 
 
 
-![image alt]()           ![image alt]()
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query3.png)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query4.png)
 
 
 
-![image alt]()           ![image alt]()
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query5.png)           ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-6/blob/7faefe83b730206328e61ee70f5289993d20cbde/query6.png)
 
 
 
